@@ -1,0 +1,338 @@
+/* =========================================
+   基本タイポグラフィ - フォントサイズ・行間
+   ========================================= */
+
+html {
+  font-size: 20px;
+}
+
+.md-typeset {
+  line-height: 1.3;
+}
+
+/* コンテンツ幅を広げる */
+.md-grid {
+  max-width: 70rem;
+}
+
+/* X(Twitter)埋め込みを縮小 */
+.twitter-tweet-rendered,
+twitter-widget {
+  transform: scale(0.9);
+  transform-origin: top left;
+}
+
+/* =========================================
+   テーマカラー設定 - レモンイエロー＋ピンク
+   河琴れもんさんイメージカラー
+   ========================================= */
+
+/* カスタムカラーパレット - ライトモード */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #E6B422;
+  --md-primary-fg-color--light: #F0C848;
+  --md-primary-fg-color--dark: #C9A020;
+  --md-primary-bg-color: #ffffff;
+  --md-primary-bg-color--light: #FFFDE7;
+  --md-accent-fg-color: #E57399;
+  --md-accent-fg-color--transparent: #E5739920;
+}
+
+/* カスタムカラーパレット - ダークモード */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #C9A227;
+  --md-primary-fg-color--light: #D4B03A;
+  --md-primary-fg-color--dark: #A68B1F;
+  --md-accent-fg-color: #E57399;
+  --md-accent-fg-color--transparent: #E5739920;
+}
+
+/* ページ全体の背景色 - レモンイエローがかったクリーム */
+.md-main {
+  background: #FFFDE7;
+}
+[data-md-color-scheme="slate"] .md-main {
+  background: #1a1a18;
+}
+
+/* メインコンテンツをカード風に */
+.md-content {
+  background: var(--md-default-bg-color);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  border-radius: 8px;
+  margin: 0 1rem;
+}
+[data-md-color-scheme="slate"] .md-content {
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+/* サイドバーナビゲーションのカスタマイズ */
+
+/* セクション見出し（歌枠・楽曲、配信アーカイブなど）のスタイル */
+.md-nav--primary .md-nav__item--section > label.md-nav__link,
+.md-nav--primary .md-nav__item--nested > label.md-nav__link {
+  color: var(--md-primary-fg-color) !important;
+  font-weight: 700 !important;
+}
+
+/* モバイルナビゲーションのセクションタイトル（戻るボタン部分） */
+.md-nav__title {
+  color: var(--md-primary-fg-color) !important;
+  font-weight: 700 !important;
+}
+
+/* セクションの上に区切り線を追加 */
+.md-nav--primary > .md-nav__list > .md-nav__item--section,
+.md-nav--primary > .md-nav__list > .md-nav__item--nested {
+  margin-top: 0.0em !important;
+  padding-top: 0.0em !important;
+  border-top: 1px solid var(--md-default-fg-color--lightest) !important;
+}
+
+/* ナビゲーションアイテムの行間を狭く */
+.md-nav--primary .md-nav__link {
+  padding-top: 0.0em !important;
+  padding-bottom: 0.0em !important;
+}
+
+/* サブアイテム（子リンク）に左ボーダーを追加 */
+.md-nav--primary .md-nav__item--section > .md-nav,
+.md-nav--primary .md-nav__item--nested > .md-nav {
+  margin-left: 0.2rem !important;
+  padding-left: 0.6rem !important;
+  border-left: 2px solid var(--md-primary-fg-color--light) !important;
+}
+
+/* =========================================
+   見出しスタイル - 階層の視覚的差別化
+   ========================================= */
+
+/* h1: 下線でアクセント */
+.md-typeset h1 {
+  border-bottom: 3px solid var(--md-primary-fg-color);
+  padding-bottom: 0.3em;
+  margin-bottom: 0.8em;
+}
+
+/* h2: 左ボーダー + 背景グラデーションでセクション感 */
+.md-typeset h2 {
+  border-left: 4px solid var(--md-primary-fg-color);
+  border-bottom: 1px solid var(--md-primary-fg-color);
+  background: linear-gradient(90deg, var(--md-accent-fg-color--transparent) 0%, transparent 100%);
+  padding: 0.4em 0.6em;
+  margin-top: 1.5em;
+}
+
+/* h3, h4: 控えめにして h2 との差をつける（h4 は目次非表示ページ用） */
+.md-typeset h3,
+.md-typeset h4 {
+  border-left: 3px solid var(--md-accent-fg-color);
+  background: linear-gradient(90deg, var(--md-accent-fg-color--transparent) 0%, transparent 60%);
+  padding: 0.3em 0.5em;
+  margin-top: 1.2em;
+}
+
+/* =========================================
+   フッター - レモンイエロー系
+   ========================================= */
+
+/* ライトモード: 少し明るめのゴールド */
+[data-md-color-scheme="default"] .md-footer {
+  background: #E6B422;
+}
+[data-md-color-scheme="default"] .md-footer-meta {
+  background: #C9A020;
+}
+
+/* ダークモード */
+[data-md-color-scheme="slate"] .md-footer {
+  background: #2d2a20;
+}
+[data-md-color-scheme="slate"] .md-footer-meta {
+  background: #252218;
+}
+
+/* =========================================
+   YouTube埋め込み - コンパクトサイズ
+   ========================================= */
+
+.video-wrapper {
+  max-width: 480px;
+  margin: 0.5em 0 1em;
+}
+
+.video-wrapper iframe {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+}
+
+/* =========================================
+   テーブル - ヘッダ行に背景色
+   ========================================= */
+
+.md-typeset th {
+  background: var(--md-accent-fg-color--transparent);
+}
+
+/* テーブルセルの上下余白を狭く */
+.md-typeset td,
+.md-typeset th {
+  padding-top: 0.8em !important;
+  padding-bottom: 0.8em !important;
+}
+
+/* =========================================
+   テーブル - 縦スタックセル
+   ========================================= */
+
+/* セル内の内容説明（小さめ・やや控えめ） */
+.content-sub {
+  display: block;
+  margin-top: 0.3em;
+  padding-left: 1em;
+  font-size: 0.9em;
+  opacity: 0.8;
+}
+
+/* =========================================
+   YouTube サムネイル - 再生ボタンオーバーレイ
+   ========================================= */
+
+/* YouTube サムネイルを含むリンク */
+a:has(img[src*="img.youtube.com"]) {
+  position: relative;
+  display: inline-block;
+  line-height: 0;
+}
+
+/* サムネイル画像 */
+.md-typeset img[src*="img.youtube.com"] {
+  border: 2px solid var(--md-default-fg-color--lighter);
+  border-radius: 4px;
+  transition: filter 0.2s ease;
+}
+
+/* 再生ボタン（通常時は非表示） */
+a:has(img[src*="img.youtube.com"])::after {
+  content: "▶";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -70%);
+  font-size: 1.5rem;
+  color: #fff;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.2s ease;
+  z-index: 2;
+}
+
+/* 「YouTubeで開く」テキスト（通常時は非表示） */
+a:has(img[src*="img.youtube.com"])::before {
+  content: "YouTubeで開く";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, 0.8rem);
+  font-size: 0.6rem;
+  color: #fff;
+  background: rgba(0, 0, 0, 0.75);
+  padding: 2px 6px;
+  border-radius: 3px;
+  white-space: nowrap;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.2s ease;
+  z-index: 2;
+}
+
+/* ホバー時：暗くして再生ボタンとテキストを表示 */
+a:has(img[src*="img.youtube.com"]):hover img {
+  filter: brightness(0.6);
+}
+
+a:has(img[src*="img.youtube.com"]):hover::after,
+a:has(img[src*="img.youtube.com"]):hover::before {
+  opacity: 1;
+}
+
+/* =========================================
+   右サイドパネル（TOC）- 項目の区切り線
+   ========================================= */
+
+/* 目次の各項目を区切り線で分離 */
+.md-nav--secondary .md-nav__item {
+  border-bottom: 1px solid var(--md-default-fg-color--lighter);
+  padding: 0.15em 0;
+}
+
+/* 最後の項目は線なし */
+.md-nav--secondary .md-nav__item:last-child {
+  border-bottom: none;
+}
+
+/* =========================================
+   X(Twitter) シェアボタン
+   ========================================= */
+
+.share-button {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--md-default-fg-color--lighter);
+}
+
+.share-button__link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.2rem 0.5rem;
+  background: var(--md-primary-fg-color);
+  color: #fff !important;
+  border-radius: 3px;
+  font-size: 0.65rem;
+  font-weight: 500;
+  text-decoration: none !important;
+  transition: background 0.2s ease, transform 0.1s ease;
+}
+
+.share-button__link:hover {
+  background: var(--md-primary-fg-color--dark);
+  transform: translateY(-1px);
+}
+
+.share-button__link:active {
+  transform: translateY(0);
+}
+
+.share-button__icon {
+  flex-shrink: 0;
+}
+
+/* =========================================
+   ヘッダー X シェアアイコン
+   ========================================= */
+
+.header-share-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.4rem;
+  height: 2.4rem;
+  color: currentColor;
+  opacity: 0.7;
+  transition: opacity 0.2s ease;
+}
+
+.header-share-icon:hover {
+  opacity: 1;
+}
+
+.header-share-icon svg {
+  display: block;
+}

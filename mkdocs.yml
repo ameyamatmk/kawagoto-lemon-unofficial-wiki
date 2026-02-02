@@ -1,0 +1,96 @@
+site_name: 河琴れもん 非公式wiki - kawagoto lemon wiki
+site_url: https://lemonk-wiki.pages.dev
+site_description: VTuber「河琴れもん」の活動や配信アーカイブ（美少女ゲーム雑談、歌枠、ゲーム実況、晩酌雑談）などをまとめた非公式ファンサイトです
+
+theme:
+  name: material
+  custom_dir: overrides
+  language: ja
+  palette:
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-7
+        name: ダークモードに切り替え
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-4
+        name: ライトモードに切り替え
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - content.tabs.link
+  favicon: assets/images/favicon.png
+  icon:
+    logo: material/brush-outline
+    repo: fontawesome/brands/github
+
+plugins:
+  - macros
+  - minify:
+      minify_html: true
+      minify_js: true
+      minify_css: true
+      htmlmin_opts:
+        remove_comments: true
+      js_files:
+        - javascripts/external-links.js
+      css_files:
+        - stylesheets/custom.css
+
+markdown_extensions:
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+      toc_depth: 3
+
+nav:
+  - ホーム: index.md
+  - 概要:
+      - プロフィール: profile.md
+      - 衣装・モデル: costume.md
+      - 活動年表: history.md
+  - 歌枠・楽曲:
+      - 歌枠セットリスト: music/utawaku.md
+      - 楽曲リスト: music/songlist.md
+  - 配信アーカイブ:
+      - びしょげ雑談: stream/bishoge.md
+      - ゲーム実況: stream/game.md
+      - 雑談・晩酌: stream/talk.md
+      - ラジオ（れもらじ）: stream/radio.md
+  - その他:
+      - コラボ: collab.md
+  - 外部リンク（別タブで開く）:
+      - YouTube: https://www.youtube.com/@河琴れもん
+      - X (旧Twitter): https://x.com/lemonmon017
+  - 更新履歴: changelog.md
+  - 免責事項・お問い合わせ: disclaimer.md
+
+copyright: Made with <a href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a>
+
+extra:
+  generator: false
+
+extra_css:
+  - stylesheets/custom.css
+
+extra_javascript:
+  - javascripts/external-links.js
+  - javascripts/header-share.js
+  - https://platform.twitter.com/widgets.js
+  - javascripts/twitter-widgets.js
