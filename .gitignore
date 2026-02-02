@@ -1,21 +1,34 @@
+design/*
+CLAUDE.md
+.claude/*
+.playwright-mcp/
+
+# MkDocs build output
+site/
+
 # Python
 __pycache__/
 *.py[cod]
+*.pyo
 .venv/
+venv/
 
-# MkDocs
-site/
-
-# Cache
-.cache/
+# uv
+.python-version
 
 # IDE
 .idea/
 .vscode/
+*.swp
+*.swo
 
 # OS
 .DS_Store
 Thumbs.db
 
-# Playwright MCP
-.playwright-mcp/
+# Environment
+.env
+.env.local
+
+# Link checker
+link-check-results.json
