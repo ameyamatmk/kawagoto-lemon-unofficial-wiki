@@ -32,6 +32,7 @@ twitter-widget {
   --md-primary-fg-color: #E6B422;
   --md-primary-fg-color--light: #F0C848;
   --md-primary-fg-color--dark: #C9A020;
+  --md-primary-fg-color--transparent: #E6B42220;
   --md-primary-bg-color: #ffffff;
   --md-primary-bg-color--light: #FFFDE7;
   --md-accent-fg-color: #E57399;
@@ -43,6 +44,7 @@ twitter-widget {
   --md-primary-fg-color: #C9A227;
   --md-primary-fg-color--light: #D4B03A;
   --md-primary-fg-color--dark: #A68B1F;
+  --md-primary-fg-color--transparent: #C9A22720;
   --md-accent-fg-color: #E57399;
   --md-accent-fg-color--transparent: #E5739920;
 }
@@ -120,7 +122,7 @@ twitter-widget {
 .md-typeset h2 {
   border-left: 4px solid var(--md-primary-fg-color);
   border-bottom: 1px solid var(--md-primary-fg-color);
-  background: linear-gradient(90deg, var(--md-accent-fg-color--transparent) 0%, transparent 100%);
+  background: linear-gradient(90deg, var(--md-primary-fg-color--transparent) 0%, transparent 100%);
   padding: 0.4em 0.6em;
   margin-top: 1.5em;
 }
@@ -128,8 +130,8 @@ twitter-widget {
 /* h3, h4: 控えめにして h2 との差をつける（h4 は目次非表示ページ用） */
 .md-typeset h3,
 .md-typeset h4 {
-  border-left: 3px solid var(--md-accent-fg-color);
-  background: linear-gradient(90deg, var(--md-accent-fg-color--transparent) 0%, transparent 60%);
+  border-left: 3px solid var(--md-primary-fg-color);
+  background: linear-gradient(90deg, var(--md-primary-fg-color--transparent) 0%, transparent 60%);
   padding: 0.3em 0.5em;
   margin-top: 1.2em;
 }
@@ -174,7 +176,7 @@ twitter-widget {
    ========================================= */
 
 .md-typeset th {
-  background: var(--md-accent-fg-color--transparent);
+  background: var(--md-primary-fg-color--transparent);
 }
 
 /* テーブルセルの上下余白を狭く */
