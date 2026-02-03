@@ -38,6 +38,10 @@
 | 10 | {{ youtube_thumbnail("MEZgjEfI4_Q") }} | 2025/10/15 | 記憶がないけど建設物がある |
 | 11 | {{ youtube_thumbnail("_8CEgYl4IYg") }} | 2025/10/29 | （最終回予定）私、リアちゃんと結婚します（予定） |
 
+#### 【Stardew Valley】おまつりにてギャンブルに沼る様子
+
+{{ youtube_thumbnail("https://www.youtube.com/watch?v=apk9-hDjssQ", 320) }}
+
 ## NieR Replicant
 
 - 全23回（本編21回 + 番外編 + #15.5）

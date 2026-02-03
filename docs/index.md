@@ -29,11 +29,15 @@
 #### 【初配信】はじめまして！れもんと申します🍋
 {{ youtube("https://www.youtube.com/watch?v=-NNjmEZ8d2w") }}
 
-#### 【活動半年記念配信】半年が経ちました🍋
-{{ youtube("https://www.youtube.com/watch?v=eI4SJsuo50k") }}
+#### 【苗字決め】八百長疑惑？れもんの苗字が決まるまで
+元動画: [【1か月記念雑談】1か月経ちました！苗字が決まるらしい！？！？](https://www.youtube.com/live/-jP1UWz_vj0)
+{{ youtube("https://www.youtube.com/watch?v=zJ3ddHYkMUU") }}
 
 #### #1 美少女ゲームの話、したくない？
 {{ youtube("https://www.youtube.com/watch?v=45KKN3B49_c") }}
 
 #### 【びしょげ歌枠】誕生日なので歌います
 {{ youtube("https://www.youtube.com/watch?v=JLdhD_9A5rg") }}
+
+#### 配信中に飲んだお酒TOP3！
+{{ youtube("https://www.youtube.com/watch?v=DuNoYYyvwVE") }}
