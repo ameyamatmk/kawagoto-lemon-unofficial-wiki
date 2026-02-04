@@ -31,6 +31,10 @@
 
 {{ twitter("https://x.com/lemonmon017/status/2000192293660512542") }}
 
+#### 頭のチュロスは食べれる
+
+{{ twitter("https://x.com/lemonmon017/status/2000193289304076725") }}
+
 ## 朝活・作業雑談
 
 | サムネイル | 配信日 | タイトル |

@@ -5,10 +5,13 @@
 | 日付 | 出来事 | リンク |
 |------|--------|------|
 | 07/27 | 新しいプロフィール画像 | [:simple-x:](https://x.com/lemonmon017/status/1949310946822017164) |
-| 08/02 | 初配信 | [:simple-youtube:](https://www.youtube.com/watch?v=-NNjmEZ8d2w) |
-| 09/02 | 1か月記念配信（苗字「河琴」決定） | [:simple-youtube:](https://www.youtube.com/watch?v=-jP1UWz_vj0) |
+| 07/27 | YouTubeチャンネル作成 | [:simple-x:](https://x.com/lemonmon017/status/1949310631833731445) |
+| 08/01 | Live2Dモデリング配信（by 飛鳴りんつ） | [:simple-x:](https://x.com/lemonmon017/status/1951100963034694077) |
+| 08/02 | 初配信 | [:simple-youtube:](https://www.youtube.com/watch?v=-NNjmEZ8d2w) / [:simple-x:](https://x.com/lemonmon017/status/1951632345267859929) |
+| 09/02 | 1か月記念配信（苗字「河琴」決定） | [:simple-youtube:](https://www.youtube.com/watch?v=-jP1UWz_vj0) / [:simple-x:](https://x.com/lemonmon017/status/1962851001674936448) |
 | 09/12 | チャンネル登録者 100人 | [:simple-x:](https://x.com/lemonmon017/status/1979782500802273381) |
-| 10/25 | 誕生日 / 歌枠 | [:simple-youtube:](https://www.youtube.com/watch?v=JLdhD_9A5rg) |
+| 10/25 | 誕生日 | [:simple-youtube:](https://www.youtube.com/watch?v=JLdhD_9A5rg) / [:simple-x:](https://x.com/lemonmon017/status/1981756939844681940) |
+| 12/11 | チャンネル登録者 150人 | [:simple-x:](https://x.com/lemonmon017/status/1999096422596317240) |
 
 ## 2026年
 

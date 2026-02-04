@@ -24,6 +24,10 @@
 
 [:fontawesome-solid-box-open: PIXIV FANBOX / lemonmon017](https://lemonmon017.fanbox.cc/){ .md-button }
 
+[:material-email-heart-outline: マシュマロ](https://marshmallow-qa.com/hmcq37pk0560q4l){ .md-button }
+
+[:material-note-text: note / lemonmon017](https://note.com/lemonmon017){ .md-button }
+
 ## おすすめ動画
 
 #### 【初配信】はじめまして！れもんと申します🍋
