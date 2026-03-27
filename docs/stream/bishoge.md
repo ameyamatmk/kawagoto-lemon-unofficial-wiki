@@ -21,3 +21,4 @@
 | {{ youtube_thumbnail("G6BvuUqJqcA") }} | 2025/11/23 | びしょげあるあるを五七五(七七)で募集してみた！ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/10947575) |
 | {{ youtube_thumbnail("CN8JMR0y_oI") }} | 2025/12/06 | #後編 ルーレットで出た単語?に関するびしょげ話をしよう！今度こそ後編！ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11025260) |
 | {{ youtube_thumbnail("4LMX5YRNq7c") }} | 2026/01/23 | 今年発売のびしょげ、みんなでチェックしようよ～！ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11286307) |
+| {{ youtube_thumbnail("KAaEGAHfM4c") }} | 2026/02/28 | アメイジング・グレイスのネタバレ感想会 | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11485878) |

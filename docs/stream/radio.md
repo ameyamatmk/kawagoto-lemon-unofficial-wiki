@@ -17,3 +17,4 @@
 | 7 | {{ youtube_thumbnail("656juR0sLO0") }} | 2025/12/23 | 私はこれが好きなんだーーっ！ |
 | 8 | {{ youtube_thumbnail("RhzQA_VYaYQ") }} | 2026/01/11 | すっぱい談／本日のオススメびしょげソング |
 | 9 | {{ youtube_thumbnail("YeVhtaXPLJU") }} | 2026/01/24 | れもんさんが知りた～い！／本日のオススメびしょげソング |
+| 10 | {{ youtube_thumbnail("wo7CmZq4f78") }} | 2026/03/27 | ふつおたのコーナー |

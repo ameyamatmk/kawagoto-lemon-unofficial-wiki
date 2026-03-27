@@ -26,6 +26,7 @@
 | {{ youtube_thumbnail("w78jx3tqDFA") }} | 2025/12/14 | 【プロフ帳埋め雑談】改めて自己紹介！プロフィール帳を書くよ～！！ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11065761) |
 | {{ youtube_thumbnail("85FTDNfgd3A") }} | 2025/12/21 | 【お悩み相談雑談】その悩み！解決……するかは私次第！！！！ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11102257) |
 | {{ youtube_thumbnail("SnQ_XdgZ3tM") }} | 2026/01/01 | 【雑談】新年だ～！まったりお話でもしようかな | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11172868) |
+| {{ youtube_thumbnail("nTLZkGhf7MY") }} | 2026/02/21 | 【雑談】200人近かったり、今後の配信内容を決めたかったり…… | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11442816) |
 
 #### VTuber専用プロフィール帳
 

@@ -12,7 +12,9 @@
     - [Alice's World](#alices-world)
     - [Unpacking](#unpacking)
     - [けものティータイム](#_2)
-    - [単発ゲーム](#_3)
+    - [anemoi（アネモイ）体験版](#anemoi)
+    - [マガルミナ体験版](#_3)
+    - [単発ゲーム](#_4)
 
 ## Stardew Valley
 
@@ -46,8 +48,8 @@
 
 ## NieR Replicant
 
-- 全23回（本編21回 + 番外編 + #15.5）
-- 2025/08/26 ～ 2026/01/27
+- 全28回（本編26回 + 番外編 + #15.5）
+- 2025/08/26 ～ 2026/03/22
 
 [:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLRHbwk3CqRbCeTzR8vfa0gG2rMl7HFX1_){ .md-button }
 
@@ -81,6 +83,11 @@
 | 19 | {{ youtube_thumbnail("rLjc0Cx0dxE") }} | 2026/01/13 | あまりにも辛すぎるよ…… | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11236371) |
 | 20 | {{ youtube_thumbnail("AlJGPlQH2T4") }} | 2026/01/19 | 何があっても、ヨナの元へ…… | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11266558) |
 | 21 | {{ youtube_thumbnail("rg2RJg8D0JE") }} | 2026/01/27 | 結婚式の裏には何が…… | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11307074) |
+| 22 | {{ youtube_thumbnail("0rNbIdaKkCA") }} | 2026/02/09 | 武器を集めたり、お金を稼いだり？ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11382405) |
+| 23 | {{ youtube_thumbnail("DttW2LZ-zgA") }} | 2026/03/03 | 武器集まったし、メイン進めるぞ！ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11506659) |
+| 24 | {{ youtube_thumbnail("GnpBWCNfskQ") }} | 2026/03/10 | 3度目の魔王城へ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11543399) |
+| 25 | {{ youtube_thumbnail("ESsAAfk61QQ") }} | 2026/03/17 | 最終回…予定！幸せに、なりたい。 | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11580455) |
+| 26 | {{ youtube_thumbnail("Qn0Xa3awyJg") }} | 2026/03/22 | 最終回ファイナルラスト編 | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11606724) |
 
 ## HELLO, HELLO WORLD!
 
@@ -202,8 +209,8 @@
 
 ## けものティータイム
 
-- 全5回
-- 2026/01/03 ～ 2026/01/30
+- 全9回
+- 2026/01/03 ～ 2026/03/06
 
 [:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLRHbwk3CqRbBZTZCbXz-9IsczRDhpdPOk){ .md-button }
 
@@ -219,6 +226,45 @@
 | 3 | {{ youtube_thumbnail("81weiOTPXAI") }} | 2026/01/12 | 悲しみを乗り越えて……気になる子も出てきて…… | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11231657) |
 | 4 | {{ youtube_thumbnail("3UfBIo9fGUI") }} | 2026/01/20 | 姉妹の喧嘩からしか得られない栄養、あります。 | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11271725) |
 | 5 | {{ youtube_thumbnail("MN83bcdxsAM") }} | 2026/01/30 | キッシュちゃん、ちょっと話聞かせて。 | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11323753) |
+| 6 | {{ youtube_thumbnail("COLPcNtSLRc") }} | 2026/02/06 | イベントがいっぱいだ～🎄🍰 | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11367459) |
+| 7 | {{ youtube_thumbnail("Uh5zEo1qsbc") }} | 2026/02/13 | どうしてこんなことに…… | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11401466) |
+| 8 | {{ youtube_thumbnail("zgKEyNozeeM") }} | 2026/02/27 | せめてお日柄の良い日々を…… | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11475230) |
+| 9 | {{ youtube_thumbnail("j6_zFkgtuqk") }} | 2026/03/06 | ハッピーバースデーって言いたい。 | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11522621) |
+
+## anemoi（アネモイ）体験版
+
+- 全5回
+- 2026/02/12 ～ 2026/03/05
+
+#### ＃１　ずっと気になっていたKeyさんの新作！体験版をやるよ～
+
+{{ youtube_thumbnail("https://www.youtube.com/watch?v=cwpCdX5ty0c", 320) }}
+
+[:material-pencil: FANBOX日記](https://lemonmon017.fanbox.cc/posts/11396263)
+
+| # | サムネイル | 配信日 | タイトル | 日記 |
+|:---:|:----------:|--------|----------|:----:|
+| 2 | {{ youtube_thumbnail("z3QCxDsHzFw") }} | 2026/02/17 | キャラが濃すぎる……！！！ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11423351) |
+| 3 | {{ youtube_thumbnail("tgdFl3V8hsU") }} | 2026/02/19 | ペン…ギン……？ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11432577) |
+| 4 | {{ youtube_thumbnail("nRUM6vvkTYY") }} | 2026/02/26 | 温かいピザはどこですか | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11469385) |
+| 5 | {{ youtube_thumbnail("VtccgtP5jds") }} | 2026/03/05 | 体験版最後まで！ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11516786) |
+
+## マガルミナ体験版
+
+- 4回（2026/03/27 現在）
+- 2026/03/08 ～
+
+#### ＃１　パープルソフトウェア様最新作！学生スパイの話らしい…！？
+
+{{ youtube_thumbnail("https://www.youtube.com/watch?v=uT1OahmRHMA", 320) }}
+
+[:material-pencil: FANBOX日記](https://lemonmon017.fanbox.cc/posts/11533482)
+
+| # | サムネイル | 配信日 | タイトル | 日記 |
+|:---:|:----------:|--------|----------|:----:|
+| 2 | {{ youtube_thumbnail("ssZOgfVsAPg") }} | 2026/03/15 | パープルソフトウェア様最新作！怒涛の初日が終わり…… | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11569896) |
+| 3 | {{ youtube_thumbnail("j9Y6pMdjwH0") }} | 2026/03/19 | パープルソフトウェア様最新作！学園生活の始まり！！ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11590431) |
+| 4 | {{ youtube_thumbnail("Rax17D-vimo") }} | 2026/03/26 | パープルソフトウェア様最新作！気になる男も出てきて…… | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11627329) |
 
 ## 単発ゲーム
 
@@ -240,6 +286,11 @@
 | {{ youtube_thumbnail("erX1E8Po4Gg") }} | 2025/12/30 | 究極の釣りシミュレータ | 釣り大好きです！現実の釣りはやったことありません！！！ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11154250) |
 | {{ youtube_thumbnail("BIrPJfWSgOU") }} | 2026/01/10 | PowerWash Simulator | 雑談しながらアイスリンクを綺麗にする！ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11220821) |
 | {{ youtube_thumbnail("U8bAQEBnx34") }} | 2026/01/31 | STELLAR IDOL PROJECT | 気になっていたアイドル育成ゲームをやってみる！！！ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11333102) |
+| {{ youtube_thumbnail("-r_Pr_k4Lvw") }} | 2026/02/14 | 今日はヴァレンティヌスが処刑された日だよっ！ | バレンタインだし、チョコが欲しいけど…… | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11407918) |
+
+#### Unpacking 切り抜き
+
+{{ youtube_thumbnail("swVVK56LvxE", 240) }}
 
 #### gogh スクリーンショット
 
