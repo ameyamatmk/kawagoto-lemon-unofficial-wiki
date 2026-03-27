@@ -16,7 +16,7 @@
 
 {{ youtube_thumbnail("JLdhD_9A5rg", 240) }}
 
-配信日: 2025/10/25
+配信日: 2025/10/25　[:material-pencil: FANBOX日記](https://lemonmon017.fanbox.cc/posts/10791944)
 
 | # | 曲名 | アーティスト | 作品 |
 |---|------|--------------|------|
@@ -38,7 +38,7 @@
 
 {{ youtube_thumbnail("MCWTlrdrewA", 240) }}
 
-配信日: 2025/12/24
+配信日: 2025/12/24　[:material-pencil: FANBOX日記](https://lemonmon017.fanbox.cc/posts/11117883)
 
 | # | 曲名 | アーティスト | 作品 |
 |---|------|--------------|------|
