@@ -35,6 +35,6 @@
 | :simple-x: (旧Twitter) | [@lemonmon017](https://x.com/lemonmon017) |
 | :simple-x: サブ垢 | [@lemonade017017](https://x.com/lemonade017017) |
 | :simple-homeassistantcommunitystore: BOOTH | [lemonmon017](https://lemonmon017.booth.pm/) |
-| :fontawesome-solid-box-open: PIXIV FANBOX | [lemonmon017](https://lemonmon017.fanbox.cc/) |
+| :fontawesome-solid-box-open: PIXIV FANBOX | [lemonmon017](https://lemonmon017.fanbox.cc/)（[日記始めました！](https://lemonmon017.fanbox.cc/posts/10376506)） |
 | :material-email-heart-outline: マシュマロ | [メッセージをおくる](https://marshmallow-qa.com/hmcq37pk0560q4l) |
 | :material-note-text: note | [lemonmon017](https://note.com/lemonmon017) |
