@@ -1,16 +1,31 @@
 # 歌枠配信セットリスト
 
 [:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLRHbwk3CqRbB89S0r8DkDD5m9viasdkB-){ .md-button }
+[:simple-youtube: 歌ってみた](https://www.youtube.com/playlist?list=PLRHbwk3CqRbCwfKbZ1enK64EinIxdIEj_){ .md-button }
 
 {{ thumbnail_notice() }}
 
 ??? note "目次"
     **[2025年](#2025)**
 
+    - 風になるを歌わせていただきました！（Shorts） (09/09)
     - 【びしょげ歌枠】誕生日なので歌います (10/25)
+    - クローバー♧クラブ -C♧C- 歌わせていただきました！（Shorts） (11/09)
     - 【歌枠】クリスマスだし、歌おうかな🎄 (12/24)
 
 ## 2025年
+
+### 風になるを歌わせていただきました！（Shorts）
+
+{{ youtube_thumbnail("E8_veEOoiRQ", 240, short=True) }}
+
+公開日: 2025/09/09
+
+| # | 曲名 | アーティスト | 作品 |
+|---|------|--------------|------|
+| 1 | 風になる | つじあやの | 猫の恩返し |
+
+---
 
 ### 【びしょげ歌枠】誕生日なので歌います
 
@@ -31,6 +46,18 @@
 | 9 | 櫻ノ詩 | はな | サクラノ詩 -櫻の森の上を舞う- |
 | 10 | Allegretto～そらときみ～ | KOTOKO | この青空に約束を─ |
 | 11 | Be brand new | レモネードファクトリー | ライムライト・レモネードジャム |
+
+---
+
+### クローバー♧クラブ -C♧C- 歌わせていただきました！（Shorts）
+
+{{ youtube_thumbnail("A_nx-WgJTMc", 240, short=True) }}
+
+公開日: 2025/11/09
+
+| # | 曲名 | アーティスト | 作品 |
+|---|------|--------------|------|
+| 1 | クローバー♧クラブ -C♧C- | ゆうゆ feat. 初音ミク | ボーカロイド |
 
 ---
 

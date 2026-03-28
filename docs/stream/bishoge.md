@@ -9,6 +9,7 @@
 {{ twitter("https://x.com/lemonmon017/status/1968843654576939022") }}
 
 [:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLRHbwk3CqRbCaK2U_MNzqvb9bCsdEgWw3){ .md-button }
+[:simple-youtube: びしょげ紹介](https://www.youtube.com/playlist?list=PLRHbwk3CqRbDn-DVnHmGUOZIwBjHtU5sk){ .md-button }
 
 | サムネイル | 配信日 | タイトル | 日記 |
 |:----------:|--------|----------|:----:|

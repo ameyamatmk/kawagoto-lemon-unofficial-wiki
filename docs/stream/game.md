@@ -2,6 +2,8 @@
 
 {{ thumbnail_notice() }}
 
+[:simple-youtube: ゲーム実況パート1集め](https://www.youtube.com/playlist?list=PLRHbwk3CqRbBTS2YmomJTJcxzeqgFEvoh){ .md-button }
+
 ??? note "目次"
     - [Stardew Valley](#stardew-valley)
     - [NieR Replicant](#nier-replicant)
@@ -42,7 +44,7 @@
 | 10 | {{ youtube_thumbnail("MEZgjEfI4_Q") }} | 2025/10/15 | 記憶がないけど建設物がある | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/10740406) |
 | 11 | {{ youtube_thumbnail("_8CEgYl4IYg") }} | 2025/10/29 | （最終回予定）私、リアちゃんと結婚します（予定） | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/10811562) |
 
-#### 【Stardew Valley】おまつりにてギャンブルに沼る様子
+#### 【Stardew Valley】おまつりにてギャンブルに沼る様子　※切り抜き
 
 {{ youtube_thumbnail("https://www.youtube.com/watch?v=apk9-hDjssQ", 320) }}
 
@@ -236,6 +238,8 @@
 - 全5回
 - 2026/02/12 ～ 2026/03/05
 
+[:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLRHbwk3CqRbAqiabASTpN1qq_w85bVGrI){ .md-button }
+
 #### ＃１　ずっと気になっていたKeyさんの新作！体験版をやるよ～
 
 {{ youtube_thumbnail("https://www.youtube.com/watch?v=cwpCdX5ty0c", 320) }}
@@ -253,6 +257,8 @@
 
 - 4回（2026/03/27 現在）
 - 2026/03/08 ～
+
+[:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLRHbwk3CqRbADt2eX5GUlKsrj-B_qvo2D){ .md-button }
 
 #### ＃１　パープルソフトウェア様最新作！学生スパイの話らしい…！？
 
@@ -288,9 +294,13 @@
 | {{ youtube_thumbnail("U8bAQEBnx34") }} | 2026/01/31 | STELLAR IDOL PROJECT | 気になっていたアイドル育成ゲームをやってみる！！！ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11333102) |
 | {{ youtube_thumbnail("-r_Pr_k4Lvw") }} | 2026/02/14 | 今日はヴァレンティヌスが処刑された日だよっ！ | バレンタインだし、チョコが欲しいけど…… | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11407918) |
 
-#### Unpacking 切り抜き
+#### 【Unpacking】雑すぎるB型女の荷ほどきの様子　※切り抜き
 
 {{ youtube_thumbnail("swVVK56LvxE", 240) }}
+
+#### 【雀魂】四暗刻チャンス！？　※切り抜き
+
+{{ youtube_thumbnail("yYbKcoAwZuk", 240, short=True) }}
 
 #### gogh スクリーンショット
 

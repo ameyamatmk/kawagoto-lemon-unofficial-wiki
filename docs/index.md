@@ -30,6 +30,8 @@
 
 ## おすすめ動画
 
+[:simple-youtube: 河琴れもんが分かるリスト！](https://www.youtube.com/playlist?list=PLRHbwk3CqRbAEkXI05lQcd73P4PisTu0b){ .md-button }
+
 #### 【初配信】はじめまして！れもんと申します🍋
 {{ youtube("https://www.youtube.com/watch?v=-NNjmEZ8d2w") }}
 

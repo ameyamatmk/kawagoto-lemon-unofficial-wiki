@@ -36,6 +36,10 @@
 
 {{ twitter("https://x.com/lemonmon017/status/2000193289304076725") }}
 
+#### 【プロフ帳埋め雑談】髪の輪っかの謎　※切り抜き
+
+{{ youtube_thumbnail("NYkx0QCc05Y", 240, short=True) }}
+
 ## 朝活・作業雑談
 
 | サムネイル | 配信日 | タイトル | 日記 |
@@ -55,3 +59,4 @@
 | サムネイル | 配信日 | タイトル | 日記 |
 |:----------:|--------|----------|:----:|
 | {{ youtube_thumbnail("x9hSVypSKnQ") }} | 2025/10/03 | 【晩酌雑談】みんなの好きなお酒とおつまみを眺めながら晩酌をしようの会 | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/10680269) |
+| {{ youtube_thumbnail("DuNoYYyvwVE") }} | 2026/02/02 | 配信中に飲んだお酒TOP3！（動画） |  |
