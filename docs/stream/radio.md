@@ -5,6 +5,7 @@
 {{ thumbnail_notice() }}
 
 [:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLRHbwk3CqRbBPoaNHOOYrE9IYx2llvyi7){ .md-button }
+[:material-email-heart-outline: おたより（tobaso）](https://www.tobaso.jp/profile/kawagoto_lemon){ .md-button }
 
 | # | サムネイル | 公開日 | タイトル |
 |:---:|:----------:|--------|----------|
