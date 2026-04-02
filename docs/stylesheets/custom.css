@@ -186,6 +186,20 @@ twitter-widget {
   padding-bottom: 0.8em !important;
 }
 
+/* FANBOX日記リンク - クリック領域拡大 */
+.md-typeset td a[href*="fanbox.cc"] {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 2.4em;
+  min-height: 2.4em;
+  padding: 0.3em;
+  border-radius: 4px;
+}
+.md-typeset td a[href*="fanbox.cc"]:hover {
+  background: var(--md-accent-fg-color--transparent);
+}
+
 /* =========================================
    テーブル - 縦スタックセル
    ========================================= */
