@@ -255,8 +255,8 @@
 
 ## マガルミナ体験版
 
-- 4回（2026/03/27 現在）
-- 2026/03/08 ～
+- 全6回
+- 2026/03/08 ～ 2026/04/01
 
 [:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLRHbwk3CqRbADt2eX5GUlKsrj-B_qvo2D){ .md-button }
 
@@ -271,6 +271,8 @@
 | 2 | {{ youtube_thumbnail("ssZOgfVsAPg") }} | 2026/03/15 | パープルソフトウェア様最新作！怒涛の初日が終わり…… | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11569896) |
 | 3 | {{ youtube_thumbnail("j9Y6pMdjwH0") }} | 2026/03/19 | パープルソフトウェア様最新作！学園生活の始まり！！ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11590431) |
 | 4 | {{ youtube_thumbnail("Rax17D-vimo") }} | 2026/03/26 | パープルソフトウェア様最新作！気になる男も出てきて…… | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11627329) |
+| 5 | {{ youtube_thumbnail("SgRkqKJJNrg") }} | 2026/03/30 | パープルソフトウェア様最新作！メルヴィ、恐ろしい子…… | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11650803) |
+| 6 | {{ youtube_thumbnail("ESg2EfU6lpk") }} | 2026/04/01 | パープルソフトウェア様最新作！いざ、対決！！！ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11669304) |
 
 ## 単発ゲーム
 
@@ -293,6 +295,8 @@
 | {{ youtube_thumbnail("BIrPJfWSgOU") }} | 2026/01/10 | PowerWash Simulator | 雑談しながらアイスリンクを綺麗にする！ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11220821) |
 | {{ youtube_thumbnail("U8bAQEBnx34") }} | 2026/01/31 | STELLAR IDOL PROJECT | 気になっていたアイドル育成ゲームをやってみる！！！ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11333102) |
 | {{ youtube_thumbnail("-r_Pr_k4Lvw") }} | 2026/02/14 | 今日はヴァレンティヌスが処刑された日だよっ！ | バレンタインだし、チョコが欲しいけど…… | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11407918) |
+| {{ youtube_thumbnail("JIaczeuAwws") }} | 2026/03/28 | Cooking Simulator | みんなにお菓子を作ります！！！ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11638043) |
+| {{ youtube_thumbnail("NNCws6mfIGQ") }} | 2026/04/02 | キミのニセモノに恋をする | 恋人に瓜二つの人が現れたら、どうする？ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11674596) |
 
 #### 【Unpacking】雑すぎるB型女の荷ほどきの様子　※切り抜き
 
