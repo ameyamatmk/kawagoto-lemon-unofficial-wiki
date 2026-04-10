@@ -63,8 +63,10 @@ nav:
   - ホーム: index.md
   - 概要:
       - プロフィール: profile.md
-      - イラスト: illustrations.md
       - 活動年表: history.md
+  - イラスト:
+      - 自画像: illustrations/portrait.md
+      - お絵かき: illustrations/drawings.md
   - 歌枠:
       - セットリスト: music/utawaku.md
   - 配信アーカイブ:
@@ -72,7 +74,7 @@ nav:
       - びしょげ雑談: stream/bishoge.md
       - ゲーム実況: stream/game.md
       - れもらじ（ラジオ）: stream/radio.md
-      - コラボ: collab.md
+      - コラボ: stream/collab.md
   - 外部リンク（別タブで開く）:
       - YouTube: https://www.youtube.com/@河琴れもん
       - X (旧Twitter): https://x.com/lemonmon017
