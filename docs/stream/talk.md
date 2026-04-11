@@ -35,6 +35,7 @@
 | {{ youtube_thumbnail("SnQ_XdgZ3tM") }} | 2026/01/01 | 【雑談】新年だ～！まったりお話でもしようかな<br><span class="content-sub">・レモンサワー・2025年振り返り・スタバレ・ニーア・苗字バトル回想・Switch2欲しい・就活の話・カクテル作りしてみたい・2026年目標</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11172868) |
 | {{ youtube_thumbnail("VLkXgqWMLYE") }} | 2026/01/15 | 【作業雑談】最近遊びまくってて作業が滞ってます。<br><span class="content-sub">・りんごジュース・TODOリスト作る・配信スケジュール計画・ギター練習・半年記念動画の準備</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11244702) |
 | {{ youtube_thumbnail("nTLZkGhf7MY") }} | 2026/02/21 | 【雑談】200人近かったり、今後の配信内容を決めたかったり……<br><span class="content-sub">・登録者200人達成・今後の配信内容相談（ゲーム、体験版、歌枠）・チュロスを食べる配信</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11442816) |
+| {{ youtube_thumbnail("Fc378i39gTE") }} | 2026/04/04 | 【雑談】マシュマロとか、最近の振り返りとか💭<br><span class="content-sub">・マシュマロ読み・配信振り返り・配信の背景変えた・ニーアオートマタ個人的に開始・マガルミナお買い物リスト・新シリーズ予告（千恋＊万花・デコレーション）・友達作りの話・聖地巡礼したい・登録者300人目標・クイズ</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11686572) |
 
 #### Blender 配信成果
 
