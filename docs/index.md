@@ -45,8 +45,5 @@
 #### #1 美少女ゲームの話、したくない？
 {{ youtube("https://www.youtube.com/watch?v=45KKN3B49_c") }}
 
-#### 【びしょげ歌枠】誕生日なので歌います
-{{ youtube("https://www.youtube.com/watch?v=JLdhD_9A5rg") }}
-
 #### 配信中に飲んだお酒TOP3！
 {{ youtube("https://www.youtube.com/watch?v=DuNoYYyvwVE") }}
