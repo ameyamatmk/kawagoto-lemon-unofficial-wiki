@@ -17,7 +17,9 @@
     - [anemoi（アネモイ）体験版](#anemoi)
     - [マガルミナ体験版](#_3)
     - [千恋＊万花](#_4)
-    - [単発ゲーム](#_5)
+    - [でこれいと・でこれいしょん](#_5)
+    - [存在/しないあなた、と私](#_6)
+    - [単発ゲーム](#_7)
 
 ## Stardew Valley
 
@@ -277,7 +279,7 @@
 
 ## 千恋＊万花
 
-- 1回
+- 4回
 - 2026/04/06 ～
 
 #### ＃１　ムラサメちゃんだけ知ってる女の初見実況！※ネタバレあり
@@ -288,6 +290,39 @@
 
 | # | サムネイル | 配信日 | タイトル | 日記 |
 |:---:|:----------:|--------|----------|:----:|
+| 2 | {{ youtube_thumbnail("yX7sRWJNhQg") }} | 2026/04/17 | 俺、何かしちゃいました……？※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11754973) |
+| 3 | {{ youtube_thumbnail("WrvSAhTMvfU") }} | 2026/04/23 | そろそろ金髪の子に会えるかな？※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11785738) |
+| 4 | {{ youtube_thumbnail("yptlHemBvzI") }} | 2026/04/30 | そろそろ誰から攻略するか考えたい※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11829213) |
+
+## でこれいと・でこれいしょん
+
+- 2回
+- 2026/04/11 ～
+
+#### ＃１　ユーレイの女の子の想いを成就させる！！※ネタバレあり
+
+{{ youtube_thumbnail("https://www.youtube.com/watch?v=_Y3Azf5shzc", 320) }}
+
+[:material-pencil: FANBOX日記](https://lemonmon017.fanbox.cc/posts/11724242)
+
+| # | サムネイル | 配信日 | タイトル | 日記 |
+|:---:|:----------:|--------|----------|:----:|
+| 2 | {{ youtube_thumbnail("fiQn3-37IzA") }} | 2026/04/15 | サイドストーリーを見ます！※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11744522) |
+
+## 存在/しないあなた、と私
+
+- 2回
+- 2026/04/24 ～
+
+#### ＃１　可愛い女の子と哲学する……のか？※ネタバレあり
+
+{{ youtube_thumbnail("https://www.youtube.com/watch?v=7GeICw2Is3o", 320) }}
+
+[:material-pencil: FANBOX日記](https://lemonmon017.fanbox.cc/posts/11790943)
+
+| # | サムネイル | 配信日 | タイトル | 日記 |
+|:---:|:----------:|--------|----------|:----:|
+| 2 | {{ youtube_thumbnail("W3f1VqR9k08") }} | 2026/04/26 | 何も分からない、でも面白い。※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11802720) |
 
 ## 単発ゲーム
 
@@ -312,6 +347,9 @@
 | {{ youtube_thumbnail("-r_Pr_k4Lvw") }} | 2026/02/14 | 今日はヴァレンティヌスが処刑された日だよっ！ | バレンタインだし、チョコが欲しいけど…… | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11407918) |
 | {{ youtube_thumbnail("JIaczeuAwws") }} | 2026/03/28 | Cooking Simulator | みんなにお菓子を作ります！！！ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11638043) |
 | {{ youtube_thumbnail("NNCws6mfIGQ") }} | 2026/04/02 | キミのニセモノに恋をする | 恋人に瓜二つの人が現れたら、どうする？ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11674596) |
+| {{ youtube_thumbnail("j7jXK8Je0NM") }} | 2026/04/28 | エイプリル探偵事務所 | 事件？そんなの2分で片付くよ。 | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11814573) |
+| {{ youtube_thumbnail("Qjl4ai3706E") }} | 2026/05/02 | 雀魂 | リスナー！麻雀でバトルだ！！！ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11845500) |
+| {{ youtube_thumbnail("sEyiMxawmdg") }} | 2026/05/05 | 全国一般人常識チェック | キャベツとレタスの区別はつきませんが、常識なら任せてください。 | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11862100) |
 
 #### 【Unpacking】雑すぎるB型女の荷ほどきの様子　※切り抜き
 

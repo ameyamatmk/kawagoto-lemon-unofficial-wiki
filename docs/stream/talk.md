@@ -36,6 +36,11 @@
 | {{ youtube_thumbnail("VLkXgqWMLYE") }} | 2026/01/15 | 【作業雑談】最近遊びまくってて作業が滞ってます。<br><span class="content-sub">・りんごジュース・TODOリスト作る・配信スケジュール計画・ギター練習・半年記念動画の準備</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11244702) |
 | {{ youtube_thumbnail("nTLZkGhf7MY") }} | 2026/02/21 | 【雑談】200人近かったり、今後の配信内容を決めたかったり……<br><span class="content-sub">・登録者200人達成・今後の配信内容相談（ゲーム、体験版、歌枠）・チュロスを食べる配信</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11442816) |
 | {{ youtube_thumbnail("Fc378i39gTE") }} | 2026/04/04 | 【雑談】マシュマロとか、最近の振り返りとか💭<br><span class="content-sub">・マシュマロ読み・配信振り返り・配信の背景変えた・ニーアオートマタ個人的に開始・マガルミナお買い物リスト・新シリーズ予告（千恋＊万花・デコレーション）・友達作りの話・聖地巡礼したい・登録者300人目標・クイズ</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11686572) |
+| {{ youtube_thumbnail("z_nqxISE6nU") }} | 2026/04/18 | 【雑談】マシュマロを読みます！！！<br><span class="content-sub">・カクテル作ってみた・キミのニセモノに恋をする、でこでこ感想・触手話・新生活・体調不良振り返り・おすすめフリゲ、びしょげ紹介・ゲーム音量バランス・トースト、中華料理、鶏肉料理アンケート・銀河鉄道の夜クイズ・カラオケ・最近のベストバイ・新グッズ案・チュロスの根本・映画館が苦手な話・転職活動相談</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11760478) |
+| {{ youtube_thumbnail("fNW5cQBu1Fc") }} | 2026/04/25 | 【雑談】ゆる～くお話したり予定決めたりしたい！<br><span class="content-sub">・推し活コラボフード・ネモフィラ国営ひたち海浜公園・サマポケ聖地巡礼・浴衣の話・ポケカ初体験・1人飯論争・コナン映画おすすめ募集</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11796926) |
+| {{ youtube_thumbnail("ceQDvAJrgdk") }} | 2026/05/03 | 【お絵描き配信】オムライスに絵を描くよ～！<br><span class="content-sub">・萌え萌えきゅん・マスコットキャラいろいろ・うちのハムちゃん・カービィ難しい・登録者300人目標・スパチャやってみたい話・サイン考案</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11848109) |
+| {{ youtube_thumbnail("hIjbAqCaLmc") }} | 2026/05/04 | 【同時視聴】トラペジウムをみんなで一緒に見よ～！ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11856914) |
+| {{ youtube_thumbnail("hFTrwx-RKCs") }} | 2026/05/06 | 【雑談】GWは盛りだくさんだったので振り返りをしたい<br><span class="content-sub">・GW配信振り返り・親戚にVTuber活動は秘密・メイド喫茶のケチャップアート談義・GW中の早起き＆調子の良さ・ギャルレモン化計画・面白いとは何か哲学配信構想・アイドリッシュセブン布教・朝活日記とやりたいことリスト80個・丁寧な暮らし志向・概念ネイルの話・1周年記念配信の話題</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11867665) |
 
 #### Blender 配信成果
 

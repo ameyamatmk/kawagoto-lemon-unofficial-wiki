@@ -6,6 +6,14 @@
 
 ???+ note "展開"
 
+    ### 総羽愛乃：anemoi（2026/05/09）
+
+    {{ twitter("https://x.com/lemonmon017/status/2052927251445088344") }}
+
+    ### 渡会ヒナミ：ぬきたし（2026/04/16）
+
+    {{ twitter("https://x.com/lemonmon017/status/2044634805741183108") }}
+
     ### ユネ：アメイジング・グレイス（2026/01/08）
 
     {{ twitter("https://x.com/lemonmon017/status/2009185991991701878") }}
