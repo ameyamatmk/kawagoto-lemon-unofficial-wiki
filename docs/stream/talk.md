@@ -41,6 +41,10 @@
 | {{ youtube_thumbnail("ceQDvAJrgdk") }} | 2026/05/03 | 【お絵描き配信】オムライスに絵を描くよ～！<br><span class="content-sub">・萌え萌えきゅん・マスコットキャラいろいろ・うちのハムちゃん・カービィ難しい・登録者300人目標・スパチャやってみたい話・サイン考案</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11848109) |
 | {{ youtube_thumbnail("hIjbAqCaLmc") }} | 2026/05/04 | 【同時視聴】トラペジウムをみんなで一緒に見よ～！ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11856914) |
 | {{ youtube_thumbnail("hFTrwx-RKCs") }} | 2026/05/06 | 【雑談】GWは盛りだくさんだったので振り返りをしたい<br><span class="content-sub">・GW配信振り返り・親戚にVTuber活動は秘密・メイド喫茶のケチャップアート談義・GW中の早起き＆調子の良さ・ギャルレモン化計画・面白いとは何か哲学配信構想・アイドリッシュセブン布教・朝活日記とやりたいことリスト80個・丁寧な暮らし志向・概念ネイルの話・1周年記念配信の話題</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11867665) |
+| {{ youtube_thumbnail("XVbb6Kup3pk") }} | 2026/05/16 | 【雑談】雑談にはいつだって本気なので、“マジ談”と言うべきかもしれない。<br><span class="content-sub">・登録者300人目前・マシュマロ読み・睡眠の悩み相談・居場所の話・神マシュマロ（長文ファンレター）連発・れもラジ総集編・ダ・カーポ／青空に約束をクイズ・真田幸村クイズ・美少女ゲームイベント、リルどるコラボバー</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11918883) |
+| [:simple-x: スペース](https://x.com/lemonmon017/status/2056571558098026864) | 2026/05/19 | オムライスとポトフ作る！※うるさいかも → [:simple-x: 料理…できました…！](https://x.com/lemonmon017/status/2056585280199803034) |  |
+| {{ youtube_thumbnail("QKhfnIQzunc") }} | 2026/05/21 | 【Study with me】お試し勉強＆作業配信！一緒に集中しよう☕<br><span class="content-sub">・お試し作業＆勉強配信・ポモドーロタイマー・「やってはいけないデザイン」読書でデザイン勉強・無言作業の中喋りたくてうずうず・リスナーの作業報告・約50分で100ページまで読破</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11942016) |
+| {{ youtube_thumbnail("M3a8u9EItrU") }} | 2026/05/25 | 【朝活雑談】おはようって言いたい朝もある☀️<br><span class="content-sub">・突発朝活雑談・モーニングルーティン発表・アルバイト面接・USJ・美少女ゲー新作・泡雪ルート・スタバのキャラメルマキアート・蜂蜜食べすぎて鼻血・コロナ禍で推しアイドルグループ解散・びしょげ名曲メモ大会・リルどる感想とコラボバー・カクテルの勉強</span> |  |
 
 #### Blender 配信成果
 
