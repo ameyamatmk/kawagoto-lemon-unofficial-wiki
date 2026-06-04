@@ -45,6 +45,7 @@
 | [:simple-x: スペース](https://x.com/lemonmon017/status/2056571558098026864) | 2026/05/19 | オムライスとポトフ作る！※うるさいかも → [:simple-x: 料理…できました…！](https://x.com/lemonmon017/status/2056585280199803034) |  |
 | {{ youtube_thumbnail("QKhfnIQzunc") }} | 2026/05/21 | 【Study with me】お試し勉強＆作業配信！一緒に集中しよう☕<br><span class="content-sub">・お試し作業＆勉強配信・ポモドーロタイマー・「やってはいけないデザイン」読書でデザイン勉強・無言作業の中喋りたくてうずうず・リスナーの作業報告・約50分で100ページまで読破</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11942016) |
 | {{ youtube_thumbnail("M3a8u9EItrU") }} | 2026/05/25 | 【朝活雑談】おはようって言いたい朝もある☀️<br><span class="content-sub">・突発朝活雑談・モーニングルーティン発表・アルバイト面接・USJ・美少女ゲー新作・泡雪ルート・スタバのキャラメルマキアート・蜂蜜食べすぎて鼻血・コロナ禍で推しアイドルグループ解散・びしょげ名曲メモ大会・リルどる感想とコラボバー・カクテルの勉強</span> |  |
+| {{ youtube_thumbnail("dd2cXS0Y8rw") }} | 2026/05/30 | 【ギャル雑談】ギャルになりきってお話＆マシュマロ読みするよ～ん✌<br><span class="content-sub">・ギャルだよ～・カルアミルク（タピオカ抜き）・好きな制服・ギャル語講座・オタクに優しいギャル・お腹の中からタピオカ飲んでた・ギャルのおすすめギャルゲー・ギャルレモン自画像・ギャル流行語クイズ・リルカコラボバー</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11992792) |
 
 #### Blender 配信成果
 
