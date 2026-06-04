@@ -6,6 +6,14 @@
 
 ???+ note "展開"
 
+    ### メルヴィ・マルローゼ：マガルミナ（2026/05/26）
+
+    {{ twitter("https://x.com/lemonmon017/status/2059163031062602163") }}
+
+    ### 丸森七星：リルカは幾重に夜を彩る（2026/05/24）
+
+    {{ twitter("https://x.com/lemonmon017/status/2058380995670507904") }}
+
     ### 総羽愛乃：anemoi（2026/05/09）
 
     {{ twitter("https://x.com/lemonmon017/status/2052927251445088344") }}

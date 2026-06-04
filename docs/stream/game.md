@@ -19,7 +19,9 @@
     - [千恋＊万花](#_4)
     - [でこれいと・でこれいしょん](#_5)
     - [存在/しないあなた、と私](#_6)
-    - [単発ゲーム](#_7)
+    - [代筆屋ワールドワード](#_7)
+    - [ミカクテイ事件の観測者-Demons'Timeline-](#-demonstimeline-)
+    - [単発ゲーム](#_8)
 
 ## Stardew Valley
 
@@ -279,7 +281,7 @@
 
 ## 千恋＊万花
 
-- 4回
+- 6回
 - 2026/04/06 ～
 
 #### ＃１　ムラサメちゃんだけ知ってる女の初見実況！※ネタバレあり
@@ -293,6 +295,8 @@
 | 2 | {{ youtube_thumbnail("yX7sRWJNhQg") }} | 2026/04/17 | 俺、何かしちゃいました……？※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11754973) |
 | 3 | {{ youtube_thumbnail("WrvSAhTMvfU") }} | 2026/04/23 | そろそろ金髪の子に会えるかな？※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11785738) |
 | 4 | {{ youtube_thumbnail("yptlHemBvzI") }} | 2026/04/30 | そろそろ誰から攻略するか考えたい※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11829213) |
+| 5 | {{ youtube_thumbnail("m4htJObtivw") }} | 2026/05/13 | 努力している姿って結果が出るまで見られたくないよね※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11903528) |
+| 6 | {{ youtube_thumbnail("nIOatQZgjHE") }} | 2026/05/29 | ヒロイン全員魅力的すぎる……※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11986158) |
 
 ## でこれいと・でこれいしょん
 
@@ -324,6 +328,40 @@
 |:---:|:----------:|--------|----------|:----:|
 | 2 | {{ youtube_thumbnail("W3f1VqR9k08") }} | 2026/04/26 | 何も分からない、でも面白い。※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11802720) |
 
+## 代筆屋ワールドワード
+
+- 2回
+- 2026/05/10 ～
+
+#### ＃１　代筆屋さんに就職しました！※ネタバレ注意
+
+{{ youtube_thumbnail("https://www.youtube.com/watch?v=_IjXSqq5SqM", 320) }}
+
+[:material-pencil: FANBOX日記](https://lemonmon017.fanbox.cc/posts/11888912)
+
+| # | サムネイル | 配信日 | タイトル | 日記 |
+|:---:|:----------:|--------|----------|:----:|
+| 2 | {{ youtube_thumbnail("3HScnk-6gFM") }} | 2026/05/12 | バイトにやらせていいことではない。※ネタバレ注意 | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11898727) |
+
+## ミカクテイ事件の観測者-Demons'Timeline-
+
+- 6回
+- 2026/05/18 ～
+
+#### ＃１　SNSを調査するぞ～！※ネタバレ注意
+
+{{ youtube_thumbnail("https://www.youtube.com/watch?v=6rM3RR9E_EQ", 320) }}
+
+[:material-pencil: FANBOX日記](https://lemonmon017.fanbox.cc/posts/11929043)
+
+| # | サムネイル | 配信日 | タイトル | 日記 |
+|:---:|:----------:|--------|----------|:----:|
+| 2 | {{ youtube_thumbnail("m8CVlMoKJM4") }} | 2026/05/20 | あなたの裏垢、特定します。※ネタバレ注意 | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11938945) |
+| 3 | {{ youtube_thumbnail("G3KaQguroq8") }} | 2026/05/24 | ネット探偵に出来ないことはない……はず。※ネタバレ注意 | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11960527) |
+| 4 | {{ youtube_thumbnail("AE7CzDlPLuE") }} | 2026/05/26 | 学生時代のSNSの使い方って思い出したくないよね。※ネタバレ注意 | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11970731) |
+| 5 | {{ youtube_thumbnail("-J0Hcjd0gDA") }} | 2026/06/01 | にゃすてりあが恋しい。※ネタバレ注意 | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12011142) |
+| 6 | {{ youtube_thumbnail("A3s2Oa7OKeA") }} | 2026/06/03 | 今日で真相解明するぞ！！！※ネタバレ注意 | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12023830) |
+
 ## 単発ゲーム
 
 [:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLRHbwk3CqRbAwMHx_ZrY986tBTuLhVmN9){ .md-button }
@@ -350,6 +388,8 @@
 | {{ youtube_thumbnail("j7jXK8Je0NM") }} | 2026/04/28 | エイプリル探偵事務所 | 事件？そんなの2分で片付くよ。 | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11814573) |
 | {{ youtube_thumbnail("Qjl4ai3706E") }} | 2026/05/02 | 雀魂 | リスナー！麻雀でバトルだ！！！ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11845500) |
 | {{ youtube_thumbnail("sEyiMxawmdg") }} | 2026/05/05 | 全国一般人常識チェック | キャベツとレタスの区別はつきませんが、常識なら任せてください。 | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11862100) |
+| {{ youtube_thumbnail("u1naTRBkLe8") }} | 2026/05/15 | Green Light | 雰囲気良さそうなゲームでチルな時間を過ごします✨※ネタバレ注意 |  |
+| {{ youtube_thumbnail("18YlnbrsRLg") }} | 2026/05/15 | Green Light | （2枠目）今度こそチルな時間を過ごします✨※ネタバレ注意 | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11914053) |
 
 #### 【Unpacking】雑すぎるB型女の荷ほどきの様子　※切り抜き
 

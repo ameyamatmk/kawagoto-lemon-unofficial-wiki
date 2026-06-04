@@ -20,3 +20,4 @@
 | 02/02 | 活動半年記念配信 | [:simple-youtube:](https://www.youtube.com/watch?v=eI4SJsuo50k) |
 | 02/02 | BOOTH開設 | [:simple-x:](https://x.com/lemonmon017/status/2018313625556111391) |
 | 02/02 | キービジュアル公開 | [:simple-x:](https://x.com/lemonmon017/status/2018328681027195006) |
+| 05/17 | チャンネル登録者 300人 | [:simple-x:](https://x.com/lemonmon017/status/2055931800275558834) |
