@@ -345,7 +345,7 @@
 
 ## ミカクテイ事件の観測者-Demons'Timeline-
 
-- 5回
+- 6回
 - 2026/05/18 ～
 
 #### ＃１　SNSを調査するぞ～！※ネタバレ注意
@@ -360,6 +360,7 @@
 | 3 | {{ youtube_thumbnail("G3KaQguroq8") }} | 2026/05/24 | ネット探偵に出来ないことはない……はず。※ネタバレ注意 | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11960527) |
 | 4 | {{ youtube_thumbnail("AE7CzDlPLuE") }} | 2026/05/26 | 学生時代のSNSの使い方って思い出したくないよね。※ネタバレ注意 | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11970731) |
 | 5 | {{ youtube_thumbnail("-J0Hcjd0gDA") }} | 2026/06/01 | にゃすてりあが恋しい。※ネタバレ注意 | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12011142) |
+| 6 | {{ youtube_thumbnail("A3s2Oa7OKeA") }} | 2026/06/03 | 今日で真相解明するぞ！！！※ネタバレ注意 | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12023830) |
 
 ## 単発ゲーム
 
