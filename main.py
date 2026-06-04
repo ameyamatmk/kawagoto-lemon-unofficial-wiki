@@ -155,7 +155,7 @@ def define_env(env):
 
         # script タグを除去（widgets.js は別途1回だけ読み込む）
         html = re.sub(
-            r"<script[^>]*twitter\.com/widgets\.js[^>]*></script>",
+            r"<script[^>]*(?:twitter|x)\.com/widgets\.js[^>]*></script>",
             "",
             html,
             flags=re.IGNORECASE,

@@ -20,7 +20,7 @@
     - [でこれいと・でこれいしょん](#_5)
     - [存在/しないあなた、と私](#_6)
     - [代筆屋ワールドワード](#_7)
-    - [ミカクテイ事件の観測者-Demons'Timeline-](#demonstimeline)
+    - [ミカクテイ事件の観測者-Demons'Timeline-](#-demonstimeline-)
     - [単発ゲーム](#_8)
 
 ## Stardew Valley
