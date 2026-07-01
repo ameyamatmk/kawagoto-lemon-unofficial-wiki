@@ -371,7 +371,6 @@
 | {{ youtube_thumbnail("PST4GZc5GPQ") }} | 2025/08/14 | ダレカレ | パパはどこ？？？ダレカレ実況プレイ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/10394585) |
 | {{ youtube_thumbnail("_dq0fIxJLrY") }} | 2025/08/31 | 呪われたデジカメ | 初ホラゲ！怖がりじゃないのでサクサクかも？？？ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/10484518) |
 | {{ youtube_thumbnail("FpJbkDzXvPM") }} | 2025/09/06 | アイアイ喫茶店 | すみません、この喫茶店にお酒はありますか？？？ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/10529496) |
-| {{ youtube_thumbnail("Xc0Lr3PVTq4") }} | 2025/09/12 | PICO PARK 2 | リスナーさんと協力！パズルはとても苦手！！！ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/10560515) |
 | {{ youtube_thumbnail("zNiiWH3cexw") }} | 2025/09/22 | おにぎり屋さんシミュレーター | おにぎりを三角に握れた試しがありません！！！ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/10612895) |
 | {{ youtube_thumbnail("0fbFgighNJU") }} | 2025/10/06 | 嘘から始まる恋の夏 | 百合びしょげの体験版をプレイします✨ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/10696343) |
 | {{ youtube_thumbnail("JohC6vM2tOM") }} | 2025/10/09 | 雀魂 | 段位戦に挑む！一盃口が好きです🀄 | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/10711211) |
