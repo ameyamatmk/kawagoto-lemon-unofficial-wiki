@@ -46,6 +46,10 @@
 | {{ youtube_thumbnail("QKhfnIQzunc") }} | 2026/05/21 | 【Study with me】お試し勉強＆作業配信！一緒に集中しよう☕<br><span class="content-sub">・お試し作業＆勉強配信・ポモドーロタイマー・「やってはいけないデザイン」読書でデザイン勉強・無言作業の中喋りたくてうずうず・リスナーの作業報告・約50分で100ページまで読破</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11942016) |
 | {{ youtube_thumbnail("M3a8u9EItrU") }} | 2026/05/25 | 【朝活雑談】おはようって言いたい朝もある☀️<br><span class="content-sub">・突発朝活雑談・モーニングルーティン発表・アルバイト面接・USJ・美少女ゲー新作・泡雪ルート・スタバのキャラメルマキアート・蜂蜜食べすぎて鼻血・コロナ禍で推しアイドルグループ解散・びしょげ名曲メモ大会・リルどる感想とコラボバー・カクテルの勉強</span> |  |
 | {{ youtube_thumbnail("dd2cXS0Y8rw") }} | 2026/05/30 | 【ギャル雑談】ギャルになりきってお話＆マシュマロ読みするよ～ん✌<br><span class="content-sub">・ギャルだよ～・カルアミルク（タピオカ抜き）・好きな制服・ギャル語講座・オタクに優しいギャル・お腹の中からタピオカ飲んでた・ギャルのおすすめギャルゲー・ギャルレモン自画像・ギャル流行語クイズ・リルカコラボバー</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11992792) |
+| {{ youtube_thumbnail("hp8cqwbnS1E") }} | 2026/06/08 | 【作業雑談】一緒にまったり作業しよ～❣<br><span class="content-sub">・サムネ作成・料理スペース相談・格ゲー・アルバイト面接談義・プールの授業・リルカのコラボバー・ミスドのもっちゅりん・美少女ゲー雑談・非公式wiki・切り抜きチャンネル・活動1周年間近（8/2）</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12049118) |
+| {{ youtube_thumbnail("fBXLDQ24IuE") }} | 2026/06/13 | 【雑談】配信しなさすぎたのでちょろっと喋りたい<br><span class="content-sub">・深夜突発雑談・ライブ手伝い・Switch2欲しい・虫が苦手・サッカーW杯・炭酸水のシュワシュワ音</span> |  |
+| {{ youtube_thumbnail("F6w_zoBNX7Y") }} | 2026/06/27 | 【雑談】あのホトトギスも誰かの雑談を聴きに行ったのかなぁ<br><span class="content-sub">・梅雨とホトトギスの和歌・おすすめ美少女ゲーム・アニメ・ポケモンチャンピオンズ・美少女ゲームソング・好きな美少女ゲーム・ニートからフリーターVTuberに進化・声優の演じ分け・ピカソのフルネーム暗唱・ラーメン・グッズ</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12150781) |
+| {{ youtube_thumbnail("1qkna0slx04") }} | 2026/06/28 | 【雑談】2日連続でお喋りをするとどうなるのか……？<br><span class="content-sub">・VTuberになったきっかけ・切り抜きチャンネル紹介・飲みやすいお酒・ベストバイ・イントネーション・ガチ恋／ユニコーン・セリフ読み・ウミガメのスープ・美少女ゲームソングおすすめ・クイズ大会・8月2日1周年配信予告</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12157076) |
 
 #### Blender 配信成果
 
@@ -64,6 +68,10 @@
 #### 【プロフ帳埋め雑談】髪の輪っかの謎　※切り抜き
 
 {{ youtube_thumbnail("NYkx0QCc05Y", 240, short=True) }}
+
+#### 自己紹介ショート
+
+{{ youtube_thumbnail("f7QyTmUjxR8", 240, short=True) }}
 
 ## お酒TOP3
 
