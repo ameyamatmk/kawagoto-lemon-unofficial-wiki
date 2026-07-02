@@ -69,6 +69,10 @@
 
 {{ youtube_thumbnail("NYkx0QCc05Y", 240, short=True) }}
 
+#### 自己紹介ショート
+
+{{ youtube_thumbnail("f7QyTmUjxR8", 240, short=True) }}
+
 ## お酒TOP3
 
 | サムネイル | 配信日 | タイトル | 日記 |
