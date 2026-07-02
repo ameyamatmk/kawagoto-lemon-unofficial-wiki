@@ -6,6 +6,10 @@
 
 ???+ note "展開"
 
+    ### 箱内にゃすてりあ：ミカクテイ事件の観測者-Demons'Timeline-（2026/06/17）
+
+    {{ twitter("https://x.com/lemonmon017/status/2067144528013009326") }}
+
     ### メルヴィ・マルローゼ：マガルミナ（2026/05/26）
 
     {{ twitter("https://x.com/lemonmon017/status/2059163031062602163") }}

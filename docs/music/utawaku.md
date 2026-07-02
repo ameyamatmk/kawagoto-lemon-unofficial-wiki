@@ -16,6 +16,7 @@
 
     - 【ララジャム歌枠】ライムライト・レモネードジャムの曲を歌います🍋 (05/03)
     - 歌ったりお話したり💛 (06/04)
+    - びしょげ関連の歌を歌います！ (06/20)
 
 ## 2025年
 
@@ -84,3 +85,24 @@
 | 6 | デビきゅー | 芹澤優 | 魔入りました！入間くん |
 | 7 | Baby Sweet Berry Love | 小倉唯 | 変態王子と笑わない猫。 |
 | 8 | fancy baby doll | 田村ゆかり | - |
+
+---
+
+### びしょげ関連の歌を歌います！
+
+{{ youtube_thumbnail("oEr-ZKWmXxQ", 240) }}
+
+配信日: 2026/06/20　[:material-pencil: FANBOX日記](https://lemonmon017.fanbox.cc/posts/12112714)
+
+| # | 曲名 | アーティスト | 作品 |
+|---|------|--------------|------|
+| 1 | Especially | 橋本みゆき | D.C. ～ダ・カーポ～ |
+| 2 | 届かない恋 '13 | 上原れな | WHITE ALBUM2 |
+| 3 | マブラヴ | 栗林みな実 | マブラヴ |
+| 4 | Rumbling hearts | 栗林みな実 | 君が望む永遠 |
+| 5 | 再会系女子はどうすりゃいいですか? | 綾瀬理恵 | ぬきたし THE ANIMATION |
+| 6 | Lasting Moment | 鈴木このみ | Summer Pockets |
+| 7 | ガラスのくつ | いとうかなこ | 沙耶の唄 |
+| 8 | 同じ空の下で | KOTOKO | 家族計画 |
+| 9 | 片翼のイカロス | 榊原ゆい | H2O -FOOTPRINTS IN THE SAND- |
+| 10 | カザハネ | 霜月はるか | H2O -FOOTPRINTS IN THE SAND- |

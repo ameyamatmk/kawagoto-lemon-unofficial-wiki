@@ -21,7 +21,8 @@
     - [存在/しないあなた、と私](#_6)
     - [代筆屋ワールドワード](#_7)
     - [ミカクテイ事件の観測者-Demons'Timeline-](#-demonstimeline-)
-    - [単発ゲーム](#_8)
+    - [クロノ・トリガー](#_8)
+    - [単発ゲーム](#_9)
 
 ## Stardew Valley
 
@@ -281,7 +282,7 @@
 
 ## 千恋＊万花
 
-- 6回
+- 10回
 - 2026/04/06 ～
 
 #### ＃１　ムラサメちゃんだけ知ってる女の初見実況！※ネタバレあり
@@ -297,6 +298,10 @@
 | 4 | {{ youtube_thumbnail("yptlHemBvzI") }} | 2026/04/30 | そろそろ誰から攻略するか考えたい※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11829213) |
 | 5 | {{ youtube_thumbnail("m4htJObtivw") }} | 2026/05/13 | 努力している姿って結果が出るまで見られたくないよね※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11903528) |
 | 6 | {{ youtube_thumbnail("nIOatQZgjHE") }} | 2026/05/29 | ヒロイン全員魅力的すぎる……※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11986158) |
+| 7 | {{ youtube_thumbnail("jqjO-8rsR0U") }} | 2026/06/05 | ヒロインの恋心も釣れたらいいのに※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12033966) |
+| 8 | {{ youtube_thumbnail("xuZC9-dnhLc") }} | 2026/06/17 | 探し物は見つけにくいものです。※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12096388) |
+| 9 | {{ youtube_thumbnail("aK-5t3skT-I") }} | 2026/06/23 | 続きが気になって夜しか眠れなかった。※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12128667) |
+| 10 | {{ youtube_thumbnail("bvdwPXMlK8Y") }} | 2026/07/01 | 友達からレベルアップしたい！！！※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12182225) |
 
 ## でこれいと・でこれいしょん
 
@@ -362,6 +367,22 @@
 | 5 | {{ youtube_thumbnail("-J0Hcjd0gDA") }} | 2026/06/01 | にゃすてりあが恋しい。※ネタバレ注意 | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12011142) |
 | 6 | {{ youtube_thumbnail("A3s2Oa7OKeA") }} | 2026/06/03 | 今日で真相解明するぞ！！！※ネタバレ注意 | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12023830) |
 
+## クロノ・トリガー
+
+- 3回
+- 2026/06/15 ～
+
+#### ＃１　あの名作を今度こそクリアしたいんです！※ネタバレあり
+
+{{ youtube_thumbnail("https://www.youtube.com/watch?v=t4jEvAUmFF0", 320) }}
+
+[:material-pencil: FANBOX日記](https://lemonmon017.fanbox.cc/posts/12086468)
+
+| # | サムネイル | 配信日 | タイトル | 日記 |
+|:---:|:----------:|--------|----------|:----:|
+| 2 | {{ youtube_thumbnail("75PUFr8A3wk") }} | 2026/06/19 | グダグダプレイも見届けて～；；※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12106957) |
+| 3 | {{ youtube_thumbnail("pMfKjVXZK8M") }} | 2026/06/22 | 変えたい未来、ありますか？※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12123846) |
+
 ## 単発ゲーム
 
 [:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLRHbwk3CqRbAwMHx_ZrY986tBTuLhVmN9){ .md-button }
@@ -389,6 +410,7 @@
 | {{ youtube_thumbnail("sEyiMxawmdg") }} | 2026/05/05 | 全国一般人常識チェック | キャベツとレタスの区別はつきませんが、常識なら任せてください。 | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11862100) |
 | {{ youtube_thumbnail("u1naTRBkLe8") }} | 2026/05/15 | Green Light | 雰囲気良さそうなゲームでチルな時間を過ごします✨※ネタバレ注意 |  |
 | {{ youtube_thumbnail("18YlnbrsRLg") }} | 2026/05/15 | Green Light | （2枠目）今度こそチルな時間を過ごします✨※ネタバレ注意 | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11914053) |
+| {{ youtube_thumbnail("04SbSsDkHmg") }} | 2026/06/06 | Cooking Simulator | おいしいごはんを作りたい！！！ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12039077) |
 
 #### 【Unpacking】雑すぎるB型女の荷ほどきの様子　※切り抜き
 
