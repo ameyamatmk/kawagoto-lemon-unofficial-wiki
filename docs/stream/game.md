@@ -420,6 +420,10 @@
 
 {{ youtube_thumbnail("yYbKcoAwZuk", 240, short=True) }}
 
+#### 【恐怖耐性診断テスト】冷静すぎるおばけ退治　※切り抜き
+
+{{ youtube_thumbnail("EZv0b3mkuq0", 240, short=True) }}
+
 #### gogh スクリーンショット
 
 {{ twitter("https://x.com/lemonmon017/status/2011718714975232016") }}
