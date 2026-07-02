@@ -48,6 +48,8 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.tilde:
+      subscript: false
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.emoji:
