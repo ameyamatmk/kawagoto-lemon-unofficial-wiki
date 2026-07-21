@@ -14,7 +14,7 @@
     - [Alice's World](#alices-world)
     - [Unpacking](#unpacking)
     - [けものティータイム](#_2)
-    - [anemoi（アネモイ）体験版](#anemoi)
+    - [anemoi 体験版](#anemoi)
     - [マガルミナ体験版](#_3)
     - [千恋＊万花](#_4)
     - [でこれいと・でこれいしょん](#_5)
@@ -24,7 +24,7 @@
     - [クロノ・トリガー](#_8)
     - [単発ゲーム](#_9)
 
-## Stardew Valley
+## Stardew Valley（完結）
 
 - 全11回
 - 2025/08/23 ～ 2025/10/29
@@ -54,7 +54,7 @@
 
 {{ youtube_thumbnail("https://www.youtube.com/watch?v=apk9-hDjssQ", 320) }}
 
-## NieR Replicant
+## NieR Replicant（完結）
 
 - 全28回（本編26回 + 番外編 + #15.5）
 - 2025/08/26 ～ 2026/03/22
@@ -97,7 +97,7 @@
 | 25 | {{ youtube_thumbnail("ESsAAfk61QQ") }} | 2026/03/17 | 最終回…予定！幸せに、なりたい。 | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11580455) |
 | 26 | {{ youtube_thumbnail("Qn0Xa3awyJg") }} | 2026/03/22 | 最終回ファイナルラスト編 | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11606724) |
 
-## HELLO, HELLO WORLD!
+## HELLO, HELLO WORLD!（完結）
 
 - 全3回
 - 2025/09/10 ～ 2025/09/18
@@ -115,7 +115,7 @@
 | 2 | {{ youtube_thumbnail("BLGeVjcu_w4") }} | 2025/09/13 | お兄ちゃんを探せ！！！結末はいかに！？ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/10565760) |
 | 3 | {{ youtube_thumbnail("6XhVc593zjg") }} | 2025/09/18 | 最後のエンドへ行く！ |  |
 
-## Inverted Angel
+## Inverted Angel（完結）
 
 - 全4回
 - 2025/10/14 ～ 2025/10/28
@@ -134,7 +134,7 @@
 | 3 | {{ youtube_thumbnail("c0De5A44Fwo") }} | 2025/10/21 | エンド回収するぞ！！！（たぶん） | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/10772440) |
 | 4 | {{ youtube_thumbnail("HlZuFk64Y_4") }} | 2025/10/28 | 攻略を見ながらエンド回収するよ！ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/10808597) |
 
-## D.C. Re:tune ～ダ・カーポ～ リチューン
+## D.C. Re:tune ～ダ・カーポ～ リチューン（完結）
 
 - 全7回
 - 2025/11/02 ～ 2025/12/11
@@ -158,8 +158,8 @@
 
 ## 牧場物語 Let's！風のグランドバザール
 
-- 全9回
-- 2025/11/06 ～ 2026/01/28
+- 9回
+- 2025/11/06 ～
 
 [:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLRHbwk3CqRbAzhvNd93I8WlqqjVh8wEgD){ .md-button }
 
@@ -180,7 +180,7 @@
 | 8 | {{ youtube_thumbnail("32BXetxm7Ro") }} | 2026/01/21 | 銀を集めてハチェット強化したい。 | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11274632) |
 | 9 | {{ youtube_thumbnail("i0FlUvdhisA") }} | 2026/01/28 | バザールでもっと儲けたい！ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11310426) |
 
-## Alice's World
+## Alice's World（完結）
 
 - 全3回
 - 2025/12/17 ～ 2025/12/22
@@ -198,7 +198,7 @@
 | 2 | {{ youtube_thumbnail("bxAr3qNIbSA") }} | 2025/12/19 | アリスちゃんに嫌われたくないです | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11091750) |
 | 3 | {{ youtube_thumbnail("FCQVy79NYLw") }} | 2025/12/22 | 人それぞれ生きる世界があり、幸せも異なると思う。 | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11107411) |
 
-## Unpacking
+## Unpacking（完結）
 
 - 全2回
 - 2025/12/31 ～ 2026/01/04
@@ -215,7 +215,7 @@
 |:---:|:----------:|--------|----------|:----:|
 | 2 | {{ youtube_thumbnail("eqW3mhzlocc") }} | 2026/01/04 | 年明けたし、荷ほどきするか。 | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11189945) |
 
-## けものティータイム
+## けものティータイム（完結）
 
 - 全9回
 - 2026/01/03 ～ 2026/03/06
@@ -239,7 +239,7 @@
 | 8 | {{ youtube_thumbnail("zgKEyNozeeM") }} | 2026/02/27 | せめてお日柄の良い日々を…… | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11475230) |
 | 9 | {{ youtube_thumbnail("j6_zFkgtuqk") }} | 2026/03/06 | ハッピーバースデーって言いたい。 | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11522621) |
 
-## anemoi（アネモイ）体験版
+## anemoi 体験版（完結）
 
 - 全5回
 - 2026/02/12 ～ 2026/03/05
@@ -259,7 +259,7 @@
 | 4 | {{ youtube_thumbnail("nRUM6vvkTYY") }} | 2026/02/26 | 温かいピザはどこですか | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11469385) |
 | 5 | {{ youtube_thumbnail("VtccgtP5jds") }} | 2026/03/05 | 体験版最後まで！ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11516786) |
 
-## マガルミナ体験版
+## マガルミナ体験版（完結）
 
 - 全6回
 - 2026/03/08 ～ 2026/04/01
@@ -282,8 +282,10 @@
 
 ## 千恋＊万花
 
-- 10回
+- 12回
 - 2026/04/06 ～
+
+[:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLRHbwk3CqRbClcy6pHJKW1fAoFmyp8orW){ .md-button }
 
 #### ＃１　ムラサメちゃんだけ知ってる女の初見実況！※ネタバレあり
 
@@ -302,11 +304,15 @@
 | 8 | {{ youtube_thumbnail("xuZC9-dnhLc") }} | 2026/06/17 | 探し物は見つけにくいものです。※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12096388) |
 | 9 | {{ youtube_thumbnail("aK-5t3skT-I") }} | 2026/06/23 | 続きが気になって夜しか眠れなかった。※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12128667) |
 | 10 | {{ youtube_thumbnail("bvdwPXMlK8Y") }} | 2026/07/01 | 友達からレベルアップしたい！！！※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12182225) |
+| 11 | {{ youtube_thumbnail("tHzI-ym9MfY") }} | 2026/07/08 | 付きあ……え……※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12220497) |
+| 12 | {{ youtube_thumbnail("-qyLfLrSAoE") }} | 2026/07/15 | いちゃ……いちゃ……※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12256132) |
 
-## でこれいと・でこれいしょん
+## でこれいと・でこれいしょん（完結）
 
-- 2回
-- 2026/04/11 ～
+- 全2回
+- 2026/04/11 ～ 2026/04/15
+
+[:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLRHbwk3CqRbChATEmUOrF0MhQkhBaBPeh){ .md-button }
 
 #### ＃１　ユーレイの女の子の想いを成就させる！！※ネタバレあり
 
@@ -318,10 +324,12 @@
 |:---:|:----------:|--------|----------|:----:|
 | 2 | {{ youtube_thumbnail("fiQn3-37IzA") }} | 2026/04/15 | サイドストーリーを見ます！※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11744522) |
 
-## 存在/しないあなた、と私
+## 存在/しないあなた、と私（完結）
 
-- 2回
-- 2026/04/24 ～
+- 全2回
+- 2026/04/24 ～ 2026/04/26
+
+[:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLRHbwk3CqRbARZ8gSACgJfW0aM5lBHrDv){ .md-button }
 
 #### ＃１　可愛い女の子と哲学する……のか？※ネタバレあり
 
@@ -333,10 +341,12 @@
 |:---:|:----------:|--------|----------|:----:|
 | 2 | {{ youtube_thumbnail("W3f1VqR9k08") }} | 2026/04/26 | 何も分からない、でも面白い。※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11802720) |
 
-## 代筆屋ワールドワード
+## 代筆屋ワールドワード（完結）
 
-- 2回
-- 2026/05/10 ～
+- 全2回
+- 2026/05/10 ～ 2026/05/12
+
+[:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLRHbwk3CqRbBJmDdXfykLl6T_WQGUUvev){ .md-button }
 
 #### ＃１　代筆屋さんに就職しました！※ネタバレ注意
 
@@ -348,10 +358,12 @@
 |:---:|:----------:|--------|----------|:----:|
 | 2 | {{ youtube_thumbnail("3HScnk-6gFM") }} | 2026/05/12 | バイトにやらせていいことではない。※ネタバレ注意 | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11898727) |
 
-## ミカクテイ事件の観測者-Demons'Timeline-
+## ミカクテイ事件の観測者-Demons'Timeline-（完結）
 
-- 6回
-- 2026/05/18 ～
+- 全6回
+- 2026/05/18 ～ 2026/06/03
+
+[:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLRHbwk3CqRbAgeUkqawSYgc3dbaoXx46v){ .md-button }
 
 #### ＃１　SNSを調査するぞ～！※ネタバレ注意
 
@@ -369,8 +381,10 @@
 
 ## クロノ・トリガー
 
-- 3回
+- 6回
 - 2026/06/15 ～
+
+[:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLcCXQOtwVm_o){ .md-button }
 
 #### ＃１　あの名作を今度こそクリアしたいんです！※ネタバレあり
 
@@ -382,6 +396,9 @@
 |:---:|:----------:|--------|----------|:----:|
 | 2 | {{ youtube_thumbnail("75PUFr8A3wk") }} | 2026/06/19 | グダグダプレイも見届けて～；；※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12106957) |
 | 3 | {{ youtube_thumbnail("pMfKjVXZK8M") }} | 2026/06/22 | 変えたい未来、ありますか？※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12123846) |
+| 4 | {{ youtube_thumbnail("wnY_kbQ45bQ") }} | 2026/07/03 | 魔王って、きっと強いよね……※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12194318) |
+| 5 | {{ youtube_thumbnail("w8qLRsCkeS0") }} | 2026/07/10 | いろんな人をあたってみようと思う。※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12230705) |
+| 6 | {{ youtube_thumbnail("XCUJLvvHrPE") }} | 2026/07/16 | いざ、勝負！！！※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12261152) |
 
 ## 単発ゲーム
 
@@ -411,6 +428,8 @@
 | {{ youtube_thumbnail("u1naTRBkLe8") }} | 2026/05/15 | Green Light | 雰囲気良さそうなゲームでチルな時間を過ごします✨※ネタバレ注意 |  |
 | {{ youtube_thumbnail("18YlnbrsRLg") }} | 2026/05/15 | Green Light | （2枠目）今度こそチルな時間を過ごします✨※ネタバレ注意 | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11914053) |
 | {{ youtube_thumbnail("04SbSsDkHmg") }} | 2026/06/06 | Cooking Simulator | おいしいごはんを作りたい！！！ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12039077) |
+| {{ youtube_thumbnail("wzgCbrCtJu0") }} | 2026/07/04 | 少年と虚塔の顛末 | 50問の謎を解く！！！！！！！！※ネタバレ注意 | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12199765) |
+| {{ youtube_thumbnail("4xKZUrGsFnA") }} | 2026/07/19 | おしゃべりキング！コミュ力診断ゲーム | 赤点だけは回避したい。 | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12277073) |
 
 #### 【Unpacking】雑すぎるB型女の荷ほどきの様子　※切り抜き
 

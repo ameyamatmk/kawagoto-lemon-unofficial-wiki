@@ -50,6 +50,8 @@
 | {{ youtube_thumbnail("fBXLDQ24IuE") }} | 2026/06/13 | 【雑談】配信しなさすぎたのでちょろっと喋りたい<br><span class="content-sub">・深夜突発雑談・ライブ手伝い・Switch2欲しい・虫が苦手・サッカーW杯・炭酸水のシュワシュワ音</span> |  |
 | {{ youtube_thumbnail("F6w_zoBNX7Y") }} | 2026/06/27 | 【雑談】あのホトトギスも誰かの雑談を聴きに行ったのかなぁ<br><span class="content-sub">・梅雨とホトトギスの和歌・おすすめ美少女ゲーム・アニメ・ポケモンチャンピオンズ・美少女ゲームソング・好きな美少女ゲーム・ニートからフリーターVTuberに進化・声優の演じ分け・ピカソのフルネーム暗唱・ラーメン・グッズ</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12150781) |
 | {{ youtube_thumbnail("1qkna0slx04") }} | 2026/06/28 | 【雑談】2日連続でお喋りをするとどうなるのか……？<br><span class="content-sub">・VTuberになったきっかけ・切り抜きチャンネル紹介・飲みやすいお酒・ベストバイ・イントネーション・ガチ恋／ユニコーン・セリフ読み・ウミガメのスープ・美少女ゲームソングおすすめ・クイズ大会・8月2日1周年配信予告</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12157076) |
+| {{ youtube_thumbnail("eBQx-bZKEZw") }} | 2026/07/12 | 【雑談】ものまねとか一発ギャグとか、何か持ちネタがほしい今日この頃。<br><span class="content-sub">・持ちネタ・黄色推し・1週間禁酒宣言・マガルミナ・美少女ゲーム新作チェック・夏コミ・最近読んでる少女漫画（春と恋と君のこと/理想的ボーイフレンド）・ハヤテのごとく・ピカチュウのものまね</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12241121) |
+| {{ youtube_thumbnail("nRcIzbrl1AI") }} | 2026/07/17 | 【作業配信】真面目に作業するから見守っててよ。<br><span class="content-sub">・サムネ、スケジュール作成・急な来客にタペストリーを見られかけた事件・禁酒失敗と罰ゲーム・ゆずソフト・美少女ゲーム雑談（家族計画・シークレットゲーム）・リアル脱出ゲーム「アイドルは100万回死ぬ」</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12264817) |
 
 #### Blender 配信成果
 
@@ -72,6 +74,14 @@
 #### 自己紹介ショート
 
 {{ youtube_thumbnail("f7QyTmUjxR8", 240, short=True) }}
+
+#### 【ギャル雑談】ギャルを知らない女のギャルなりきり配信ダイジェスト　※切り抜き
+
+{{ youtube_thumbnail("lsbC6QUrQEs", 240, short=True) }}
+
+#### 一週間禁酒チャレンジ
+
+{{ twitter("https://x.com/lemonmon017/status/2077339459671179584") }}
 
 ## お酒TOP3
 
