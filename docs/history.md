@@ -21,3 +21,7 @@
 | 02/02 | BOOTH開設 | [:simple-x:](https://x.com/lemonmon017/status/2018313625556111391) |
 | 02/02 | キービジュアル公開 | [:simple-x:](https://x.com/lemonmon017/status/2018328681027195006) |
 | 05/17 | チャンネル登録者 300人 | [:simple-x:](https://x.com/lemonmon017/status/2055931800275558834) |
+| 08/02 | 活動1周年記念配信 | [:simple-youtube:](https://www.youtube.com/watch?v=n_3H8kS8gTA) |
+| 08/02 | LINEスタンプ販売開始 | [:simple-x:](https://x.com/lemonmon017/status/2083893917477695833) |
+| 08/02 | 1周年記念グッズ発売 | [:simple-x:](https://x.com/lemonmon017/status/2083896492423856129) |
+| 08/04 | チャンネル登録者 400人 | [:simple-x:](https://x.com/lemonmon017/status/2084630848603840962) |

@@ -11,6 +11,7 @@
 | {{ youtube_thumbnail("-NNjmEZ8d2w") }} | 2025/08/02 | 【初配信】はじめまして！れもんと申します🍋<br><span class="content-sub">・レモンサワー・自己紹介・ママとパパ紹介・好きな食べ物・美少女ゲーム・お酒</span> |  |
 | {{ youtube_thumbnail("-jP1UWz_vj0") }} | 2025/09/02 | 【1か月記念雑談】1か月経ちました！苗字が決まるらしい！？！？<br><span class="content-sub">・苗字候補紹介・X投票で苗字バトル・やりたいこと</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/10507550) |
 | {{ youtube_thumbnail("eI4SJsuo50k") }} | 2026/02/02 | 【活動半年記念配信】半年が経ちました🍋キービジュ公開＆告知もあるらしい！！！<br><span class="content-sub">・新ロゴお披露目・キービジュアル公開・ハッシュタグ整理・初グッズ（アクスタ）告知・在庫バトル！・いつもコメントありがとう</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11347086) |
+| {{ youtube_thumbnail("n_3H8kS8gTA") }} | 2026/08/02 | 【1周年記念配信】みんなのおかげでここまで来れました🍋<br><span class="content-sub">・シャンパンで乾杯・初のスタジオ収録・お酒のいれもん（豆色紙おまけ・当たり入り）・グッズは全部れもんさんイラスト・1年の振り返り・2年目の抱負（登録者500人と収益化目標）</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12361433) |
 
 #### 投票結果
 
@@ -52,6 +53,9 @@
 | {{ youtube_thumbnail("1qkna0slx04") }} | 2026/06/28 | 【雑談】2日連続でお喋りをするとどうなるのか……？<br><span class="content-sub">・VTuberになったきっかけ・切り抜きチャンネル紹介・飲みやすいお酒・ベストバイ・イントネーション・ガチ恋／ユニコーン・セリフ読み・ウミガメのスープ・美少女ゲームソングおすすめ・クイズ大会・8月2日1周年配信予告</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12157076) |
 | {{ youtube_thumbnail("eBQx-bZKEZw") }} | 2026/07/12 | 【雑談】ものまねとか一発ギャグとか、何か持ちネタがほしい今日この頃。<br><span class="content-sub">・持ちネタ・黄色推し・1週間禁酒宣言・マガルミナ・美少女ゲーム新作チェック・夏コミ・最近読んでる少女漫画（春と恋と君のこと/理想的ボーイフレンド）・ハヤテのごとく・ピカチュウのものまね</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12241121) |
 | {{ youtube_thumbnail("nRcIzbrl1AI") }} | 2026/07/17 | 【作業配信】真面目に作業するから見守っててよ。<br><span class="content-sub">・サムネ、スケジュール作成・急な来客にタペストリーを見られかけた事件・禁酒失敗と罰ゲーム・ゆずソフト・美少女ゲーム雑談（家族計画・シークレットゲーム）・リアル脱出ゲーム「アイドルは100万回死ぬ」</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12264817) |
+| [:simple-x: スペース](https://x.com/lemonmon017/status/2080479137215717719) | 2026/07/24 | 【とても環境音】ハンバーガー(サムライマック風)を作ります🍔【フリーダム】 → [:simple-x: 完成したハンバーガー](https://x.com/lemonmon017/status/2080492865420239329) |  |
+| {{ youtube_thumbnail("0slAhD7Ty8M") }} | 2026/07/24 | 【作業配信】作業捗ってないの？一緒に頑張ろうよ……！<br><span class="content-sub">・料理スペースからの作業配信・禁酒終了でグレフルサワー片手に作業・スケジュール＆サムネ作成・聖地巡礼したい（江の島／マガルミナ・北海道）・「銀色、遥か」OP・セール巡回・オススメASMR紹介・アニメ「きみが死ぬまで恋をしたい」・ゆずソフト楽曲語り・シール帳・ITパスポート取得</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12301353) |
+| {{ youtube_thumbnail("MtebPAkzKh4") }} | 2026/07/28 | 【雑談】ゆずソフトソングフェスのお話をみんなでまったりしよ～～～<br><span class="content-sub">・ゆずソフトソングフェス2026感想会（立川1日目をセトリ順に振り返り）・現地に行かなかった後悔・プレイ済みは3作・サブスクで一夜漬け予習・ゆずソフト縛り歌枠やりたい（30年以内）・スクリュードライバーで晩酌</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12324842) |
 
 #### Blender 配信成果
 

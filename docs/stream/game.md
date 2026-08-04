@@ -282,7 +282,7 @@
 
 ## 千恋＊万花
 
-- 12回
+- 15回
 - 2026/04/06 ～
 
 [:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLRHbwk3CqRbClcy6pHJKW1fAoFmyp8orW){ .md-button }
@@ -306,6 +306,9 @@
 | 10 | {{ youtube_thumbnail("bvdwPXMlK8Y") }} | 2026/07/01 | 友達からレベルアップしたい！！！※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12182225) |
 | 11 | {{ youtube_thumbnail("tHzI-ym9MfY") }} | 2026/07/08 | 付きあ……え……※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12220497) |
 | 12 | {{ youtube_thumbnail("-qyLfLrSAoE") }} | 2026/07/15 | いちゃ……いちゃ……※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12256132) |
+| 13 | {{ youtube_thumbnail("frFXooSbBu8") }} | 2026/07/22 | 幸せの邪魔をしないでください※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12293026) |
+| 14 | {{ youtube_thumbnail("yk0Se4_dXQY") }} | 2026/07/30 | ハッピーエンドを目指して……※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12336298) |
+| 15 | {{ youtube_thumbnail("VCsGhgdbyuM") }} | 2026/08/04 | 幸せを重ねて。※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12372009) |
 
 ## でこれいと・でこれいしょん（完結）
 
@@ -381,7 +384,7 @@
 
 ## クロノ・トリガー
 
-- 6回
+- 8回
 - 2026/06/15 ～
 
 [:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLcCXQOtwVm_o){ .md-button }
@@ -399,6 +402,8 @@
 | 4 | {{ youtube_thumbnail("wnY_kbQ45bQ") }} | 2026/07/03 | 魔王って、きっと強いよね……※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12194318) |
 | 5 | {{ youtube_thumbnail("w8qLRsCkeS0") }} | 2026/07/10 | いろんな人をあたってみようと思う。※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12230705) |
 | 6 | {{ youtube_thumbnail("XCUJLvvHrPE") }} | 2026/07/16 | いざ、勝負！！！※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12261152) |
+| 7 | {{ youtube_thumbnail("ro1knZ3kKHI") }} | 2026/07/23 | 魔王、大丈夫かな……※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12297890) |
+| 8 | {{ youtube_thumbnail("AjtIzw6vyz0") }} | 2026/07/31 | ”天”を攻略するぞ～～～※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12346124) |
 
 ## 単発ゲーム
 
