@@ -76,7 +76,9 @@ nav:
       - びしょげ雑談: stream/bishoge.md
       - ゲーム実況: stream/game.md
       - れもらじ（ラジオ）: stream/radio.md
-      - コラボ: stream/collab.md
+  - その他:
+      - コラボ: collab.md
+      - グッズ: goods.md
   - 外部リンク（別タブで開く）:
       - YouTube: https://www.youtube.com/@河琴れもん
       - X (旧Twitter): https://x.com/lemonmon017

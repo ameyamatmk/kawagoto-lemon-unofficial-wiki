@@ -17,6 +17,7 @@
     - 【ララジャム歌枠】ライムライト・レモネードジャムの曲を歌います🍋 (05/03)
     - 歌ったりお話したり💛 (06/04)
     - びしょげ関連の歌を歌います！ (06/20)
+    - Aqua Stripe / 笠原弘子（Ever17 ED） (08/02)
 
 ## 2025年
 
@@ -106,3 +107,19 @@
 | 8 | 同じ空の下で | KOTOKO | 家族計画 |
 | 9 | 片翼のイカロス | 榊原ゆい | H2O -FOOTPRINTS IN THE SAND- |
 | 10 | カザハネ | 霜月はるか | H2O -FOOTPRINTS IN THE SAND- |
+
+---
+
+### Aqua Stripe / 笠原弘子（Ever17 ED）
+
+{{ youtube_thumbnail("o7AMzWinBnY", 240) }}
+
+公開日: 2026/08/02
+
+| # | 曲名 | アーティスト | 作品 |
+|---|------|--------------|------|
+| 1 | Aqua Stripe | 笠原弘子 | Ever17 -the out of infinity- |
+
+{{ twitter("https://x.com/lemonmon017/status/2083873458728182008") }}
+
+{{ twitter("https://x.com/lemonmon017/status/2083409542122221933") }}
