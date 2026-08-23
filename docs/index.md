@@ -19,7 +19,7 @@
 
 ## 公式リンク
 
-[:simple-youtube: YouTube / @河琴れもん](https://www.youtube.com/@河琴れもん){ .md-button }
+[:simple-youtube: YouTube / @kawagoto_lemon](https://www.youtube.com/@kawagoto_lemon){ .md-button }
 
 [:simple-x: (Twitter) / @lemonmon017](https://x.com/lemonmon017){ .md-button }
 

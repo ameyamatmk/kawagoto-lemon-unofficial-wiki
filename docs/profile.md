@@ -32,7 +32,7 @@
 
 | サービス | リンク |
 |----------|--------|
-| :simple-youtube: YouTube | [@河琴れもん](https://www.youtube.com/@河琴れもん) |
+| :simple-youtube: YouTube | [@kawagoto_lemon](https://www.youtube.com/@kawagoto_lemon) |
 | :simple-x: (旧Twitter) | [@lemonmon017](https://x.com/lemonmon017) |
 | :simple-x: サブ垢 | [@lemonade017017](https://x.com/lemonade017017) |
 | :simple-homeassistantcommunitystore: BOOTH | [lemonmon017](https://lemonmon017.booth.pm/) |

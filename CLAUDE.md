@@ -7,7 +7,7 @@
 
 ### 河琴れもんさんについて
 - 美少女ゲームとお酒が大好きな一般人VTuber
-- YouTube: https://www.youtube.com/@河琴れもん
+- YouTube: https://www.youtube.com/@kawagoto_lemon
 - X(Twitter): https://x.com/lemonmon017
 - 配信タグ: #れもすとりーむ
 
