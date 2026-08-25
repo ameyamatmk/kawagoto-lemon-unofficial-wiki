@@ -1,7 +1,7 @@
 # 歌枠配信セットリスト
 
 [:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLRHbwk3CqRbB89S0r8DkDD5m9viasdkB-){ .md-button }
-[:simple-youtube: 歌ってみた](https://www.youtube.com/playlist?list=PLRHbwk3CqRbCwfKbZ1enK64EinIxdIEj_){ .md-button }
+[:simple-youtube: 歌ってみた](https://www.youtube.com/playlist?list=PLdCBtabcTqEs){ .md-button }
 
 {{ thumbnail_notice() }}
 
