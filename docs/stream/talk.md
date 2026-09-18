@@ -29,7 +29,6 @@
 |:----------:|--------|----------|:----:|
 | {{ youtube_thumbnail("Ol6cAtSSDUI") }} | 2025/09/17 | 【作業雑談】本に沿ってBlenderでデスクセットを作る！<br><span class="content-sub">・「10日でBlender練習帳」・魚、揚げ物苦手・プリキュアカレー・ゲームの話</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/10586634) |
 | {{ youtube_thumbnail("sABVEHbAoR8") }} | 2025/09/25 | 雑談から逃げるな<br><span class="content-sub">・台湾の友人からレモンのリキュール・歌枠準備の話・オタク遍歴（絶対可憐チルドレン・Ever17・ひぐらしのなく頃に・ガンダムSEED・リトルバスターズなどなど）・最近の美少女ゲーム事情</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/10627743) |
-| {{ youtube_thumbnail("x9hSVypSKnQ") }} | 2025/10/03 | 【晩酌雑談】みんなの好きなお酒とおつまみを眺めながら晩酌をしようの会 | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/10680269) |
 | {{ youtube_thumbnail("6BW_lyomS8U") }} | 2025/11/23 | 【朝活雑談】初めての朝配信！！！何話すか決めてないよ～～～<br><span class="content-sub">・コーヒー・アペイリア紹介ショート構想・ララジャム感想会やりたい・コミケの思い出・学マス、ソシャゲの話</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/10947575) |
 | {{ youtube_thumbnail("w78jx3tqDFA") }} | 2025/12/14 | 【プロフ帳埋め雑談】改めて自己紹介！プロフィール帳を書くよ～！！<br><span class="content-sub">・スプリングバレーラガー・似顔絵描き・チュロスの髪飾り</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11065761) |
 | {{ youtube_thumbnail("85FTDNfgd3A") }} | 2025/12/21 | 【お悩み相談雑談】その悩み！解決……するかは私次第！！！！<br><span class="content-sub">・赤ワイン・お悩み相談会（マシュマロ）・美少女ゲーム積みゲー問題・新作か神作品か</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11102257) |
@@ -56,8 +55,12 @@
 | [:simple-x: スペース](https://x.com/lemonmon017/status/2080479137215717719) | 2026/07/24 | 【とても環境音】ハンバーガー(サムライマック風)を作ります🍔【フリーダム】 → [:simple-x: 完成したハンバーガー](https://x.com/lemonmon017/status/2080492865420239329) |  |
 | {{ youtube_thumbnail("0slAhD7Ty8M") }} | 2026/07/24 | 【作業配信】作業捗ってないの？一緒に頑張ろうよ……！<br><span class="content-sub">・料理スペースからの作業配信・禁酒終了でグレフルサワー片手に作業・スケジュール＆サムネ作成・聖地巡礼したい（江の島／マガルミナ・北海道）・「銀色、遥か」OP・セール巡回・オススメASMR紹介・アニメ「きみが死ぬまで恋をしたい」・ゆずソフト楽曲語り・シール帳・ITパスポート取得</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12301353) |
 | {{ youtube_thumbnail("MtebPAkzKh4") }} | 2026/07/28 | 【雑談】ゆずソフトソングフェスのお話をみんなでまったりしよ～～～<br><span class="content-sub">・ゆずソフトソングフェス2026感想会（立川1日目をセトリ順に振り返り）・現地に行かなかった後悔・プレイ済みは3作・サブスクで一夜漬け予習・ゆずソフト縛り歌枠やりたい（30年以内）・スクリュードライバーで晩酌</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12324842) |
-| {{ youtube_thumbnail("DSyb-YE_4jM") }} | 2026/08/15 | 【雑談】夏だしマシュマロ消化しようか。<br><span class="content-sub">・水着ファンアートサムネ詐欺・スリーサイズ談義・ガンダム雑談（0080 ポケットの中の戦争）・クソマロコーナー（ゼウスペンギン・カブトムシ株投資）・チャッピー（ChatGPT）ものまね診断（フリーザ・しんのすけ・ずんだもん）・クイズマロ「理想が高い人＝ドワーフ」・1周年ファンレターに感激・雑談アレルギーだった過去語り・グッズ発送完了とブースト感謝・当たり付き敷紙エピソード・イラスト初心者への回答（クリスタ・アイビスペイント）・夏コミ戦利品と差し入れトーク・遠距離恋愛相談マシュマロに動揺・美少女ゲーム「I/O」熱弁・映画『ちいかわ 人魚の島の秘密』が気になる</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12431305) |
-| {{ youtube_thumbnail("BOEmd5L_pOw") }} | 2026/08/20 | 【朝活雑談】おはようを言いに来て～❣<br><span class="content-sub">・突発朝活雑談・歌枠やりたいけどJASRAC権利の壁・映画『ちいかわ』鑑賞前トーク・なか卯愛を語る・ポップコーン塩派宣言・セブンコラボ商品・自由研究企画構想・流星群と星空の思い出・ホラーゲーム新作紹介（バイオハザード4・Mouthwashing）・好きなポケモンはドダイトス・ラブプラス／どうぶつの森／ムシキングの思い出・17歳設定に困る大人トーク・チュロス頭コスプレ願望・夏コミで『サクラノ詩』本を見かけた</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12454664) |
+| {{ youtube_thumbnail("DSyb-YE_4jM") }} | 2026/08/15 | 【雑談】夏だしマシュマロ消化しようか。<br><span class="content-sub">・ゼウスペンギン・カブトムシ株投資・ものまね診断・「理想が高い人」・1周年ファンレター・グッズ発送完了・夏コミ戦利品</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12431305) |
+| {{ youtube_thumbnail("BOEmd5L_pOw") }} | 2026/08/20 | 【朝活雑談】おはようを言いに来て～❣<br><span class="content-sub">・突発朝活雑談・歌枠やりたい・映画『ちいかわ』鑑賞前トーク・流星群と星空・17歳に困る大人トーク・チュロスコスプレ</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12454664) |
+| {{ youtube_thumbnail("DUCXR9Iyql8") }} | 2026/09/02 | 【雑談】雑談は突然やってくる<br><span class="content-sub">・コメントで会話が成り立つ楽しさ・月見バーガー愛・歌ってみたのスタジオ収録の話・リアル脱出ゲームの話・美少女ゲーム近況（マガルミナ・ぬきたし並行プレイ）</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12536474) |
+| {{ youtube_thumbnail("oDIIBujVkY4") }} | 2026/09/07 | 【朝活雑談】初見さん大歓迎！まったり朝トーク💭<br><span class="content-sub">・チュロスを外せば身バレ回避・ジム通いを検討するも・カクテル作り動画やVlogの構想・宝くじ当たったら・ピアノを習っていた過去・『ちいかわ』にハマりかけ（くりまんじゅう先輩）</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12563925) |
+| {{ youtube_thumbnail("fFx-y-5oVwE") }} | 2026/09/07 | 【作業配信】黙々と作業をする枠はこちらです（大嘘）<br><span class="content-sub">・本日2回目の配信・まのさばサムネ作成＆枠立て・ピリ辛きゅうりで実質ASMR・動画編集ソフト・「面白いとは何か」・聖地巡礼したい（江の島／マガルミナ）・誕生日までに</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12563925) |
+| {{ youtube_thumbnail("3AdV4sdM5jo") }} | 2026/09/14 | 【雑談】ちょみっとお話したい気分！初見さんも大歓迎！<br><span class="content-sub">・散歩に出たらつまみとお酒を買って帰った突発昼雑談・次にやるゲーム相談・浅草の角打ちで・母のLINEアイコンを描いている・「河琴れもん」の名前の由来・唐揚げにレモンはかけない派・428が人生初の聖地巡礼作品</span> |  |
 
 #### Blender 配信成果
 
@@ -92,6 +95,13 @@
 #### 【シチュボ】頑張るあなたを心配する一般人Vtuber
 
 {{ youtube_thumbnail("rt9U5Am7RbI", 240, short=True) }}
+
+## 晩酌雑談
+
+| サムネイル | 配信日 | タイトル | 日記 |
+|:----------:|--------|----------|:----:|
+| {{ youtube_thumbnail("x9hSVypSKnQ") }} | 2025/10/03 | 【晩酌雑談】みんなの好きなお酒とおつまみを眺めながら晩酌をしようの会<br><span class="content-sub">・募集した「好きなお酒とおつまみ」の写真を紹介する・乾杯は男梅サワー熟成梅・おつまみはもやしナムル／冷凍枝豆／ドンキのバターコーン・お酒、おつまみ紹介・思い出の日本酒・桜餅の味がするビールの飲み比べ・猫カフェで猫に好かれなかった</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/10680269) |
+| {{ youtube_thumbnail("xrfQ-kIYfzA") }} | 2026/09/12 | 【晩酌配信】定例！れもんと宅飲み会🍋🍹#1<br><span class="content-sub">・月1定例の晩酌配信スタート・ビールで乾杯・おつまみはポテト／もやし／キュウリ／キャベツ／枝豆・企画「みんなの休日スケジュール円グラフ」・コンカフェ／メイド喫茶の話・お友達論</span> |  |
 
 ## お酒TOP3
 
