@@ -6,6 +6,14 @@
 
 ???+ note "展開"
 
+    ### 藤田沙織：マガルミナ（2026/08/19）
+
+    {{ twitter("https://x.com/lemonmon017/status/2089963541055123472") }}
+
+    ### 本間心鈴：サクラノ刻（2026/08/18）
+
+    {{ twitter("https://x.com/lemonmon017/status/2089515188383097068") }}
+
     ### 箱内にゃすてりあ：ミカクテイ事件の観測者-Demons'Timeline-（2026/06/17）
 
     {{ twitter("https://x.com/lemonmon017/status/2067144528013009326") }}

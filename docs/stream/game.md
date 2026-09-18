@@ -22,7 +22,8 @@
     - [代筆屋ワールドワード](#_7)
     - [ミカクテイ事件の観測者-Demons'Timeline-](#-demonstimeline-)
     - [クロノ・トリガー](#_8)
-    - [単発ゲーム](#_9)
+    - [魔法少女ノ魔女裁判](#_9)
+    - [単発ゲーム](#_10)
 
 ## Stardew Valley（完結）
 
@@ -280,10 +281,10 @@
 | 5 | {{ youtube_thumbnail("SgRkqKJJNrg") }} | 2026/03/30 | パープルソフトウェア様最新作！メルヴィ、恐ろしい子…… | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11650803) |
 | 6 | {{ youtube_thumbnail("ESg2EfU6lpk") }} | 2026/04/01 | パープルソフトウェア様最新作！いざ、対決！！！ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11669304) |
 
-## 千恋＊万花
+## 千恋＊万花（完結）
 
-- 15回
-- 2026/04/06 ～
+- 全16回
+- 2026/04/06 ～ 2026/08/10
 
 [:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLRHbwk3CqRbClcy6pHJKW1fAoFmyp8orW){ .md-button }
 
@@ -309,6 +310,7 @@
 | 13 | {{ youtube_thumbnail("frFXooSbBu8") }} | 2026/07/22 | 幸せの邪魔をしないでください※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12293026) |
 | 14 | {{ youtube_thumbnail("yk0Se4_dXQY") }} | 2026/07/30 | ハッピーエンドを目指して……※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12336298) |
 | 15 | {{ youtube_thumbnail("VCsGhgdbyuM") }} | 2026/08/04 | 幸せを重ねて。※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12372009) |
+| 16 | {{ youtube_thumbnail("lqYK4SoHhuE") }} | 2026/08/10 | 芳乃ルート最終回※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12404027) |
 
 ## でこれいと・でこれいしょん（完結）
 
@@ -384,7 +386,7 @@
 
 ## クロノ・トリガー
 
-- 8回
+- 13回
 - 2026/06/15 ～
 
 [:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLcCXQOtwVm_o){ .md-button }
@@ -404,6 +406,34 @@
 | 6 | {{ youtube_thumbnail("XCUJLvvHrPE") }} | 2026/07/16 | いざ、勝負！！！※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12261152) |
 | 7 | {{ youtube_thumbnail("ro1knZ3kKHI") }} | 2026/07/23 | 魔王、大丈夫かな……※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12297890) |
 | 8 | {{ youtube_thumbnail("AjtIzw6vyz0") }} | 2026/07/31 | ”天”を攻略するぞ～～～※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12346124) |
+| 9 | {{ youtube_thumbnail("zqUNekIEqlk") }} | 2026/08/07 | どこに行けばいいかを探す配信。※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12387143) |
+| 10 | {{ youtube_thumbnail("ajmJ-ViY15k") }} | 2026/08/13 | 今日こそメインストーリー進めるぞ！※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12420111) |
+| 11 | {{ youtube_thumbnail("43D8JnPyDVE") }} | 2026/08/19 | 水の中で目を開けられないのですが……※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12452302) |
+| 12 | {{ youtube_thumbnail("uW3uYM3efF8") }} | 2026/08/25 | 主人公不在の冒険…！※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12483924) |
+| 13 | {{ youtube_thumbnail("8Fgymmq7Feg") }} | 2026/09/07 | 甦れ～～～～～～※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12563925) |
+
+## 魔法少女ノ魔女裁判
+
+- 8回
+- 2026/08/18 ～
+
+[:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLJoVVs8xoQ30){ .md-button }
+
+#### ＃１　この中に、魔女がいる…！？※ネタバレあり
+
+{{ youtube_thumbnail("https://www.youtube.com/watch?v=IJWHFBGoRtA", 320) }}
+
+[:material-pencil: FANBOX日記](https://lemonmon017.fanbox.cc/posts/12447461)
+
+| # | サムネイル | 配信日 | タイトル | 日記 |
+|:---:|:----------:|--------|----------|:----:|
+| 2 | {{ youtube_thumbnail("yd35yK414Ak") }} | 2026/08/21 | 可愛い女の子がいっぱい♡※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12463119) |
+| 3 | {{ youtube_thumbnail("QRKsHD3fqNk") }} | 2026/08/27 | バッドエンドが濃すぎる！！！※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12495320) |
+| 4 | {{ youtube_thumbnail("8WscLBPRsD0") }} | 2026/09/01 | 1話を終えて……※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12531307) |
+| 5 | {{ youtube_thumbnail("vtfKy2tpKrM") }} | 2026/09/04 | 一体誰が……？※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12548030) |
+| 6 | {{ youtube_thumbnail("n2KkGvblxkA") }} | 2026/09/10 | もう何も起こらないでほしい。※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12578649) |
+| 7 | {{ youtube_thumbnail("_k_O5rvFgoQ") }} | 2026/09/11 | どうして…誰が……※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12584096) |
+| 8 | {{ youtube_thumbnail("DPZVp3beLRs") }} | 2026/09/16 | それでも明日はやってくる※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12609571) |
 
 ## 単発ゲーム
 
@@ -435,6 +465,8 @@
 | {{ youtube_thumbnail("04SbSsDkHmg") }} | 2026/06/06 | Cooking Simulator | おいしいごはんを作りたい！！！ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12039077) |
 | {{ youtube_thumbnail("wzgCbrCtJu0") }} | 2026/07/04 | 少年と虚塔の顛末 | 50問の謎を解く！！！！！！！！※ネタバレ注意 | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12199765) |
 | {{ youtube_thumbnail("4xKZUrGsFnA") }} | 2026/07/19 | おしゃべりキング！コミュ力診断ゲーム | 赤点だけは回避したい。 | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12277073) |
+| {{ youtube_thumbnail("qLeTIZeIiPo") }} | 2026/08/17 | オンライン線香花火 | みんなと線香花火をして癒されたい💭 | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12441777) |
+| {{ youtube_thumbnail("SeoGX-qidzA") }} | 2026/08/29 | 利用規約に同意したい | 罰ゲームマシュマロ募集で届いたことをするぞ！ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12505874) |
 
 #### 【Unpacking】雑すぎるB型女の荷ほどきの様子　※切り抜き
 

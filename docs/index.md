@@ -1,6 +1,6 @@
 # 河琴れもん 非公式wiki
 
-<small style="display: block; text-align: right;">最終更新: 2026/08/04</small>
+<small style="display: block; text-align: right;">最終更新: 2026/09/18</small>
 
 !!! warning "このサイトについて"
     本サイトは**非公式のファンサイト**です。
@@ -19,7 +19,7 @@
 
 ## 公式リンク
 
-[:simple-youtube: YouTube / @河琴れもん](https://www.youtube.com/@河琴れもん){ .md-button }
+[:simple-youtube: YouTube / @kawagoto_lemon](https://www.youtube.com/@kawagoto_lemon){ .md-button }
 
 [:simple-x: (Twitter) / @lemonmon017](https://x.com/lemonmon017){ .md-button }
 
