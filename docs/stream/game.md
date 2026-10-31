@@ -386,7 +386,7 @@
 
 ## クロノ・トリガー
 
-- 13回
+- 16回
 - 2026/06/15 ～
 
 [:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLcCXQOtwVm_o){ .md-button }
@@ -411,10 +411,13 @@
 | 11 | {{ youtube_thumbnail("43D8JnPyDVE") }} | 2026/08/19 | 水の中で目を開けられないのですが……※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12452302) |
 | 12 | {{ youtube_thumbnail("uW3uYM3efF8") }} | 2026/08/25 | 主人公不在の冒険…！※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12483924) |
 | 13 | {{ youtube_thumbnail("8Fgymmq7Feg") }} | 2026/09/07 | 甦れ～～～～～～※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12563925) |
+| 14 | {{ youtube_thumbnail("-8A2nDW5FbY") }} | 2026/09/28 | 最終決戦？に向けてイベ回収をする！※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12673512) |
+| 15 | {{ youtube_thumbnail("kqP2eOknzwo") }} | 2026/10/14 | 怒涛のイベ回収！※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12765434) |
+| 16 | {{ youtube_thumbnail("YD8xUcC-dkQ") }} | 2026/10/20 | イベ回収を終わらせるぞ！※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12794995) |
 
 ## 魔法少女ノ魔女裁判
 
-- 8回
+- 13回
 - 2026/08/18 ～
 
 [:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLJoVVs8xoQ30){ .md-button }
@@ -434,6 +437,11 @@
 | 6 | {{ youtube_thumbnail("n2KkGvblxkA") }} | 2026/09/10 | もう何も起こらないでほしい。※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12578649) |
 | 7 | {{ youtube_thumbnail("_k_O5rvFgoQ") }} | 2026/09/11 | どうして…誰が……※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12584096) |
 | 8 | {{ youtube_thumbnail("DPZVp3beLRs") }} | 2026/09/16 | それでも明日はやってくる※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12609571) |
+| 9 | {{ youtube_thumbnail("SjfMNOvcjG0") }} | 2026/09/18 | どんな答えが待っていても※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12619540) |
+| 10 | {{ youtube_thumbnail("3KwLbNFhfBY") }} | 2026/09/22 | 知るべきことがきっとある※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12641023) |
+| 11 | {{ youtube_thumbnail("bl2Oek10jq0") }} | 2026/10/01 | このゲーム、長いぞ！！！※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12698080) |
+| 12 | {{ youtube_thumbnail("PpNrXR9jwfE") }} | 2026/10/02 | 平和だなぁ（？）※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12703678) |
+| 13 | {{ youtube_thumbnail("5MqGQLrBjvc") }} | 2026/10/16 | 平和なわけもなく。※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12775355) |
 
 ## 単発ゲーム
 
@@ -479,6 +487,10 @@
 #### 【恐怖耐性診断テスト】冷静すぎるおばけ退治　※切り抜き
 
 {{ youtube_thumbnail("EZv0b3mkuq0", 240, short=True) }}
+
+#### 【利用規約に同意したい】真剣にやろうとするもすぐ同意に失敗する様子　※切り抜き
+
+{{ youtube_thumbnail("b7-RFgmdx6g", 240, short=True) }}
 
 #### gogh スクリーンショット
 
