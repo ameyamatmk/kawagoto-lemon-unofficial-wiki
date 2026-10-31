@@ -4,6 +4,8 @@
 
 [:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLRHbwk3CqRbAwMHx_ZrY986tBTuLhVmN9){ .md-button }
 
+## 2025年
+
 | サムネイル | 配信日 | ゲーム名 | タイトル | 日記 |
 |:----------:|--------|----------|----------|:----:|
 | {{ youtube_thumbnail("PST4GZc5GPQ") }} | 2025/08/14 | ダレカレ | パパはどこ？？？ダレカレ実況プレイ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/10394585) |
@@ -17,6 +19,11 @@
 | {{ youtube_thumbnail("e05RbhacDGk") }} | 2025/11/18 | 恐怖耐性診断テスト | ハロウィンは誰にも平等にやってくるのです。 | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/10922715) |
 | {{ youtube_thumbnail("XhPibszmNPo") }} | 2025/11/24 | 漢字でGO!／地図クイズ | 意外とできるところを見せたくて…… | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/10952493) |
 | {{ youtube_thumbnail("erX1E8Po4Gg") }} | 2025/12/30 | 究極の釣りシミュレータ | 釣り大好きです！現実の釣りはやったことありません！！！ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11154250) |
+
+## 2026年
+
+| サムネイル | 配信日 | ゲーム名 | タイトル | 日記 |
+|:----------:|--------|----------|----------|:----:|
 | {{ youtube_thumbnail("BIrPJfWSgOU") }} | 2026/01/10 | PowerWash Simulator | 雑談しながらアイスリンクを綺麗にする！ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11220821) |
 | {{ youtube_thumbnail("U8bAQEBnx34") }} | 2026/01/31 | STELLAR IDOL PROJECT | 気になっていたアイドル育成ゲームをやってみる！！！ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11333102) |
 | {{ youtube_thumbnail("-r_Pr_k4Lvw") }} | 2026/02/14 | 今日はヴァレンティヌスが処刑された日だよっ！ | バレンタインだし、チョコが欲しいけど…… | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11407918) |
@@ -32,6 +39,8 @@
 | {{ youtube_thumbnail("4xKZUrGsFnA") }} | 2026/07/19 | おしゃべりキング！コミュ力診断ゲーム | 赤点だけは回避したい。 | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12277073) |
 | {{ youtube_thumbnail("qLeTIZeIiPo") }} | 2026/08/17 | オンライン線香花火 | みんなと線香花火をして癒されたい💭 | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12441777) |
 | {{ youtube_thumbnail("SeoGX-qidzA") }} | 2026/08/29 | 利用規約に同意したい | 罰ゲームマシュマロ募集で届いたことをするぞ！ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12505874) |
+
+## 切り抜き・関連ポスト
 
 #### 【雀魂】四暗刻チャンス！？　※切り抜き
 
