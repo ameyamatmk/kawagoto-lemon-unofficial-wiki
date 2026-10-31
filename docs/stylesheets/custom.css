@@ -223,6 +223,40 @@ twitter-widget {
   opacity: 0.8;
 }
 
+/* スマホでは内容説明付きテーブルをカード表示にする
+   （タイトル列が細く、内容説明が数文字ずつ折り返して縦に長くなるため）
+   1段目: サムネイル・日付など / 2段目: タイトル＋内容説明を全幅 */
+@media screen and (max-width: 44.9375em) {
+  .md-typeset table:not([class]):has(.content-sub),
+  .md-typeset table:not([class]):has(.content-sub) tbody {
+    display: block;
+  }
+
+  .md-typeset table:not([class]):has(.content-sub) thead {
+    display: none;
+  }
+
+  .md-typeset table:not([class]):has(.content-sub) tr {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    column-gap: 0.8em;
+    padding: 0.6em 0.4em;
+    border-top: 1px solid var(--md-typeset-table-color);
+  }
+
+  .md-typeset table:not([class]):has(.content-sub) td {
+    padding: 0;
+    border-top: none;
+  }
+
+  .md-typeset table:not([class]):has(.content-sub) td:has(.content-sub) {
+    flex-basis: 100%;
+    order: 1;
+    margin-top: 0.4em;
+  }
+}
+
 /* =========================================
    YouTube サムネイル - 再生ボタンオーバーレイ
    ========================================= */
