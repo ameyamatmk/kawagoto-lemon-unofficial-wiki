@@ -25,3 +25,4 @@
 | 08/02 | LINEスタンプ販売開始 | [:simple-x:](https://x.com/lemonmon017/status/2083893917477695833) |
 | 08/02 | 1周年記念グッズ発売 | [:simple-x:](https://x.com/lemonmon017/status/2083896492423856129) |
 | 08/04 | チャンネル登録者 400人 | [:simple-x:](https://x.com/lemonmon017/status/2084630848603840962) |
+| 10/25 | 誕生日 | [:simple-youtube:](https://www.youtube.com/watch?v=2A3Lti8Wt2s) / [:simple-x:](https://x.com/lemonmon017/status/2114018709941711019) |
