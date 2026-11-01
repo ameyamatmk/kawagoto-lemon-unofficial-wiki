@@ -107,6 +107,16 @@ twitter-widget {
   border-left: 2px solid var(--md-primary-fg-color--light) !important;
 }
 
+/* 3階層目（ゲーム実況の作品一覧など）は折り返すと境目が分からないため区切り線で分離 */
+.md-nav--primary .md-nav[data-md-level="2"] > .md-nav__list > .md-nav__item {
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+  padding: 0.15em 0;
+}
+
+.md-nav--primary .md-nav[data-md-level="2"] > .md-nav__list > .md-nav__item:last-child {
+  border-bottom: none;
+}
+
 /* =========================================
    見出しスタイル - 階層の視覚的差別化
    ========================================= */
@@ -211,6 +221,40 @@ twitter-widget {
   padding-left: 1em;
   font-size: 0.9em;
   opacity: 0.8;
+}
+
+/* スマホでは内容説明付きテーブルをカード表示にする
+   （タイトル列が細く、内容説明が数文字ずつ折り返して縦に長くなるため）
+   1段目: サムネイル・日付など / 2段目: タイトル＋内容説明を全幅 */
+@media screen and (max-width: 44.9375em) {
+  .md-typeset table:not([class]):has(.content-sub),
+  .md-typeset table:not([class]):has(.content-sub) tbody {
+    display: block;
+  }
+
+  .md-typeset table:not([class]):has(.content-sub) thead {
+    display: none;
+  }
+
+  .md-typeset table:not([class]):has(.content-sub) tr {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    column-gap: 0.8em;
+    padding: 0.6em 0.4em;
+    border-top: 1px solid var(--md-typeset-table-color);
+  }
+
+  .md-typeset table:not([class]):has(.content-sub) td {
+    padding: 0;
+    border-top: none;
+  }
+
+  .md-typeset table:not([class]):has(.content-sub) td:has(.content-sub) {
+    flex-basis: 100%;
+    order: 1;
+    margin-top: 0.4em;
+  }
 }
 
 /* =========================================

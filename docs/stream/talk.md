@@ -25,6 +25,8 @@
 
 ## 雑談
 
+### 2025年
+
 | サムネイル | 配信日 | タイトル | 日記 |
 |:----------:|--------|----------|:----:|
 | {{ youtube_thumbnail("Ol6cAtSSDUI") }} | 2025/09/17 | 【作業雑談】本に沿ってBlenderでデスクセットを作る！<br><span class="content-sub">・「10日でBlender練習帳」・魚、揚げ物苦手・プリキュアカレー・ゲームの話</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/10586634) |
@@ -32,6 +34,11 @@
 | {{ youtube_thumbnail("6BW_lyomS8U") }} | 2025/11/23 | 【朝活雑談】初めての朝配信！！！何話すか決めてないよ～～～<br><span class="content-sub">・コーヒー・アペイリア紹介ショート構想・ララジャム感想会やりたい・コミケの思い出・学マス、ソシャゲの話</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/10947575) |
 | {{ youtube_thumbnail("w78jx3tqDFA") }} | 2025/12/14 | 【プロフ帳埋め雑談】改めて自己紹介！プロフィール帳を書くよ～！！<br><span class="content-sub">・スプリングバレーラガー・似顔絵描き・チュロスの髪飾り</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11065761) |
 | {{ youtube_thumbnail("85FTDNfgd3A") }} | 2025/12/21 | 【お悩み相談雑談】その悩み！解決……するかは私次第！！！！<br><span class="content-sub">・赤ワイン・お悩み相談会（マシュマロ）・美少女ゲーム積みゲー問題・新作か神作品か</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11102257) |
+
+### 2026年
+
+| サムネイル | 配信日 | タイトル | 日記 |
+|:----------:|--------|----------|:----:|
 | {{ youtube_thumbnail("SnQ_XdgZ3tM") }} | 2026/01/01 | 【雑談】新年だ～！まったりお話でもしようかな<br><span class="content-sub">・レモンサワー・2025年振り返り・スタバレ・ニーア・苗字バトル回想・Switch2欲しい・就活の話・カクテル作りしてみたい・2026年目標</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11172868) |
 | {{ youtube_thumbnail("VLkXgqWMLYE") }} | 2026/01/15 | 【作業雑談】最近遊びまくってて作業が滞ってます。<br><span class="content-sub">・りんごジュース・TODOリスト作る・配信スケジュール計画・ギター練習・半年記念動画の準備</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11244702) |
 | {{ youtube_thumbnail("nTLZkGhf7MY") }} | 2026/02/21 | 【雑談】200人近かったり、今後の配信内容を決めたかったり……<br><span class="content-sub">・登録者200人達成・今後の配信内容相談（ゲーム、体験版、歌枠）・チュロスを食べる配信</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/11442816) |
@@ -66,6 +73,9 @@
 | {{ youtube_thumbnail("Rd-h7ENiq-A") }} | 2026/10/12 | 【雑談】最近のお話をしたりしなかったり<br><span class="content-sub">・『神ソン』昼の部に参戦・yozuca*さん「第2ボタンの誓い」で『D.C.』愛が爆発・Ducaさんの声量に圧倒・「れっつごー!Modulation」の完璧なコール・旅行先当てクイズ・福井県立恐竜博物館・『ひぐらしのなく頃に』聖地巡礼・『アイベヤ3』クリア</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12755888) |
 | {{ youtube_thumbnail("2A3Lti8Wt2s") }} | 2026/10/24 | 【誕生日雑談】誕生日カウントダウンをしつつちょっとお喋りしよ～！<br><span class="content-sub">・開始画面を201ママ制作のオープニングアニメに変更・ケーキ（フランボワーズ）・期間限定ファンレター到着＆お礼・『さくら、もゆ。』にハマり中・トラペジウム以来の同時視聴またやりたい・今年の抱負は「健康第一」・誕生日会場の背景</span> |  |
 | {{ youtube_thumbnail("9rGbx6AoK4k") }} | 2026/10/29 | 【雑談】実質冬。<br><span class="content-sub">・好きな冬服はニット・『さくら、もゆ。』クリア・クリア直後にビールを飲みながらnoteに感想を投稿・『いろとりどりのセカイ』もやりたい・積みゲーは美少女ゲームだけで20本くらい・ルート分岐の形式・M3に初参加（半分お手伝い）・コミケに行ってみたい・登録者500人まであと14人</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12841414) |
+| {{ youtube_thumbnail("u2ZBdmo82fM") }} | 2026/10/31 | 【雑談】全てを諦めて来年のハロウィンに何するか決めようと思う🎃<br><span class="content-sub">・マスカット系のお酒・ハロウィンっぽいカクテル作りや料理配信も考えたが……・かぼちゃの煮物は好きだけど皮が苦手・モデレーター（スパナ）を付けた・リスナー創作料理大会・年始の雑談計画・年末ジャンボを買ってみたい・「有象無象」を意味</span> | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12856949) |
+
+### 切り抜き・関連ポスト
 
 #### Blender 配信成果
 

@@ -22,15 +22,21 @@ theme:
   features:
     - navigation.instant
     - navigation.sections
-    - navigation.expand
+    - navigation.indexes
     - navigation.top
     - content.tabs.link
+    - search.suggest
+    - search.highlight
   favicon: assets/images/favicon.svg
   icon:
     logo: fontawesome/regular/lemon
     repo: fontawesome/brands/github
 
 plugins:
+  - search:
+      lang: ja
+      # 検索語は分かち書きされないため、索引と検索語の両方を文字種の境目で区切る
+      separator: '[\s\-\u3000\u3001\u3002\uff0c\uff0e\u30fb\uff0a\uff01\uff1f]+|(?<=[\u4e00-\u9fff])(?=[\u30a0-\u30ffa-zA-Z])|(?<=[\u30a0-\u30ffa-zA-Z])(?=[\u4e00-\u9fff])|(?<=[a-zA-Z])(?=\d)'
   - macros
   - minify:
       minify_html: true
@@ -59,6 +65,9 @@ markdown_extensions:
   - md_in_html
   - toc:
       permalink: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
       toc_depth: 3
 
 nav:
@@ -74,7 +83,27 @@ nav:
   - 配信アーカイブ:
       - 雑談・晩酌: stream/talk.md
       - びしょげ雑談: stream/bishoge.md
-      - ゲーム実況: stream/game.md
+      - ゲーム実況:
+          - stream/game/index.md
+          - Stardew Valley: stream/game/stardew-valley.md
+          - NieR Replicant: stream/game/nier-replicant.md
+          - HELLO, HELLO WORLD!: stream/game/hello-hello-world.md
+          - Inverted Angel: stream/game/inverted-angel.md
+          - D.C. Re:tune: stream/game/dc-retune.md
+          - 牧場物語 風のグランドバザール: stream/game/bokumono-bazaar.md
+          - Alice's World: stream/game/alices-world.md
+          - Unpacking: stream/game/unpacking.md
+          - けものティータイム: stream/game/kemono-teatime.md
+          - anemoi 体験版: stream/game/anemoi-trial.md
+          - マガルミナ体験版: stream/game/magalumina-trial.md
+          - 千恋＊万花: stream/game/senren-banka.md
+          - でこれいと・でこれいしょん: stream/game/decorate-decoration.md
+          - 存在/しないあなた、と私: stream/game/sonzai-shinai-anata-to-watashi.md
+          - 代筆屋ワールドワード: stream/game/daihitsuya-world-word.md
+          - ミカクテイ事件の観測者: stream/game/mikakutei-jiken.md
+          - クロノ・トリガー: stream/game/chrono-trigger.md
+          - 魔法少女ノ魔女裁判: stream/game/manosaba.md
+          - 単発ゲーム: stream/game/oneshot.md
       - れもらじ（ラジオ）: stream/radio.md
   - その他:
       - コラボ: collab.md
