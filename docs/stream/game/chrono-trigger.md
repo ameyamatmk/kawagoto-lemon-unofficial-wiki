@@ -2,8 +2,8 @@
 
 {{ thumbnail_notice() }}
 
-- 16回
-- 2026/06/15 ～
+- 全17回
+- 2026/06/15 ～ 2026/11/02
 
 [:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLcCXQOtwVm_o){ .md-button }
 
@@ -30,3 +30,4 @@
 | 14 | {{ youtube_thumbnail("-8A2nDW5FbY") }} | 2026/09/28 | 最終決戦？に向けてイベ回収をする！※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12673512) |
 | 15 | {{ youtube_thumbnail("kqP2eOknzwo") }} | 2026/10/14 | 怒涛のイベ回収！※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12765434) |
 | 16 | {{ youtube_thumbnail("YD8xUcC-dkQ") }} | 2026/10/20 | イベ回収を終わらせるぞ！※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12794995) |
+| 17 | {{ youtube_thumbnail("ot5xVv0K-3E") }} | 2026/11/02 | 世界を救いに来ました※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12872403) |

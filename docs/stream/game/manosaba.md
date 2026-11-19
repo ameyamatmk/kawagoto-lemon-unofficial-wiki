@@ -2,7 +2,7 @@
 
 {{ thumbnail_notice() }}
 
-- 13回
+- 19回
 - 2026/08/18 ～
 
 [:simple-youtube: 再生リスト](https://www.youtube.com/playlist?list=PLJoVVs8xoQ30){ .md-button }
@@ -27,3 +27,9 @@
 | 11 | {{ youtube_thumbnail("bl2Oek10jq0") }} | 2026/10/01 | このゲーム、長いぞ！！！※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12698080) |
 | 12 | {{ youtube_thumbnail("PpNrXR9jwfE") }} | 2026/10/02 | 平和だなぁ（？）※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12703678) |
 | 13 | {{ youtube_thumbnail("5MqGQLrBjvc") }} | 2026/10/16 | 平和なわけもなく。※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12775355) |
+| 14 | {{ youtube_thumbnail("7TLgCjC9oN8") }} | 2026/11/04 | 過程より結果。※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12883056) |
+| 15 | {{ youtube_thumbnail("i7lfSGFlLo0") }} | 2026/11/07 | 負けられない闘い。※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12899067) |
+| 16 | {{ youtube_thumbnail("x81jlAqLhM4") }} | 2026/11/11 | 意志を引き継いで……※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12918123) |
+| 17 | {{ youtube_thumbnail("SJqCqyAE7i8") }} | 2026/11/12 | 私…なのか……？※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12923397) |
+| 18 | {{ youtube_thumbnail("gNG5-Ov8NRI") }} | 2026/11/17 | 伝えたいことは後回しにしてはいけない。※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12948820) |
+| 19 | {{ youtube_thumbnail("P4J4n-eu4xw") }} | 2026/11/18 | どうして！どうして！！どうして！！！※ネタバレあり | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12954025) |

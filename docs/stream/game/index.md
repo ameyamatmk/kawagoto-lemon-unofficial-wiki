@@ -5,7 +5,7 @@
 [:simple-youtube: ゲーム実況パート1集め](https://www.youtube.com/playlist?list=PLRHbwk3CqRbBTS2YmomJTJcxzeqgFEvoh){ .md-button }
 
 !!! tip "進行中"
-    [クロノ・トリガー](chrono-trigger.md) / [魔法少女ノ魔女裁判](manosaba.md)
+    [魔法少女ノ魔女裁判](manosaba.md)
 
 ## シリーズ
 
@@ -27,8 +27,8 @@
 | {{ youtube_thumbnail("7GeICw2Is3o") }} | [存在/しないあなた、と私](sonzai-shinai-anata-to-watashi.md) | 完結<br>全2回 | 2026/04/24 ～ 2026/04/26 |
 | {{ youtube_thumbnail("_IjXSqq5SqM") }} | [代筆屋ワールドワード](daihitsuya-world-word.md) | 完結<br>全2回 | 2026/05/10 ～ 2026/05/12 |
 | {{ youtube_thumbnail("6rM3RR9E_EQ") }} | [ミカクテイ事件の観測者-Demons'Timeline-](mikakutei-jiken.md) | 完結<br>全6回 | 2026/05/18 ～ 2026/06/03 |
-| {{ youtube_thumbnail("t4jEvAUmFF0") }} | [クロノ・トリガー](chrono-trigger.md) | 進行中<br>16回 | 2026/06/15 ～ |
-| {{ youtube_thumbnail("IJWHFBGoRtA") }} | [魔法少女ノ魔女裁判](manosaba.md) | 進行中<br>13回 | 2026/08/18 ～ |
+| {{ youtube_thumbnail("t4jEvAUmFF0") }} | [クロノ・トリガー](chrono-trigger.md) | 完結<br>全17回 | 2026/06/15 ～ 2026/11/02 |
+| {{ youtube_thumbnail("IJWHFBGoRtA") }} | [魔法少女ノ魔女裁判](manosaba.md) | 進行中<br>19回 | 2026/08/18 ～ |
 
 ## 単発ゲーム
 
