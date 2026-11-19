@@ -39,6 +39,7 @@
 | {{ youtube_thumbnail("4xKZUrGsFnA") }} | 2026/07/19 | おしゃべりキング！コミュ力診断ゲーム | 赤点だけは回避したい。 | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12277073) |
 | {{ youtube_thumbnail("qLeTIZeIiPo") }} | 2026/08/17 | オンライン線香花火 | みんなと線香花火をして癒されたい💭 | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12441777) |
 | {{ youtube_thumbnail("SeoGX-qidzA") }} | 2026/08/29 | 利用規約に同意したい | 罰ゲームマシュマロ募集で届いたことをするぞ！ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12505874) |
+| {{ youtube_thumbnail("XZCixUGQItE") }} | 2026/11/09 | 妹に運転を教える | 私の運転知識、全て伝授します！！！ | [:material-pencil:](https://lemonmon017.fanbox.cc/posts/12908797) |
 
 ## 切り抜き・関連ポスト
 
